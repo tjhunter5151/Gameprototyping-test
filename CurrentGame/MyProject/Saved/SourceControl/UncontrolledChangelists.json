@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/b01030280/Documents/GamePrototypeTest/Gameprototyping-test/CurrentGame/MyProject/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd.uasset",
+				"C:/Users/b01030280/Documents/GamePrototypeTest/Gameprototyping-test/CurrentGame/MyProject/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/b01030280/Documents/GamePrototypeTest/Gameprototyping-test/CurrentGame/MyProject/Content/Enemies/BP_Spikes.uasset",
+				"C:/Users/b01030280/Documents/GamePrototypeTest/Gameprototyping-test/CurrentGame/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/b01030280/Documents/GamePrototypeTest/Gameprototyping-test/CurrentGame/MyProject/Content/Collectibles/BP_HealthPickup.uasset",
+				"C:/Users/b01030280/Documents/GamePrototypeTest/Gameprototyping-test/CurrentGame/MyProject/Content/UI/WB_RobotHud.uasset",
 				"C:/Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd.uasset",
 				"C:/Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Characters/Mannequins/Anims/Unarmed/Walk/MF_Unarmed_Walk_Fwd.uasset",
