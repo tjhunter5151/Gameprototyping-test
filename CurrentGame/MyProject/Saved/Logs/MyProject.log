@@ -14485,3 +14485,14 @@ FPackageName: Skipped package /Engine/BasicShapes/HealthPickUppEmissive has a va
 [2026.02.12-13.55.10:600][525]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
 [2026.02.12-13.55.10:600][525]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
 [2026.02.12-13.55.10:629][525]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/b01030280/Documents/GamePrototypeTest/Gameprototyping-test/CurrentGame/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.12-13.55.33:998][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.12-13.55.34:615][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.02.12-13.55.35:207][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.12-13.55.35:445][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.02.12-13.55.35:657][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.12-13.55.35:831][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.12-13.55.36:016][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.12-13.55.36:229][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.02.12-13.55.36:520][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.12-13.55.36:959][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.02.12-13.55.37:638][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
