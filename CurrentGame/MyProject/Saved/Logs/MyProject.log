@@ -2181,3 +2181,13 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.17-21.34.06:614][854]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.17-21.34.06:614][854]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.17-21.34.06:614][854]AssetCheck: /Game/levels/L_LevelOne Validating asset
+[2026.02.17-21.35.26:160][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.17-21.35.26:847][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.17-21.35.27:300][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.17-21.35.27:624][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.17-21.35.27:945][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.17-21.35.29:026][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.17-21.35.29:394][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.17-21.35.29:683][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.17-21.35.29:995][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.17-21.35.30:403][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
