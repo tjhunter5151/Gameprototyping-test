@@ -3255,3 +3255,1394 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.20-18.19.59:706][136]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.20-18.19.59:706][136]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
 [2026.02.20-18.20.02:203][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.20-18.21.18:049][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9650.372070
+[2026.02.20-18.21.19:049][669]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-18.21.19:049][669]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9651.039062, Update Interval: 345.647766
+[2026.02.20-18.27.45:091][827]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10037.346680
+[2026.02.20-18.27.46:092][830]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-18.27.46:092][830]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10038.013672, Update Interval: 345.061798
+[2026.02.20-18.34.19:477][ 10]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10431.637695
+[2026.02.20-18.34.20:478][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-18.34.20:478][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10432.304688, Update Interval: 334.146545
+[2026.02.20-18.40.31:855][127]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10803.906250
+[2026.02.20-18.40.32:856][130]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-18.40.32:856][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10804.574219, Update Interval: 304.363525
+[2026.02.20-18.42.20:693][454]LogDerivedDataCache: C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.20-18.46.31:222][205]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11163.178711
+[2026.02.20-18.46.32:222][208]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-18.46.32:222][208]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11163.844727, Update Interval: 346.134827
+[2026.02.20-18.53.17:605][424]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11569.492188
+[2026.02.20-18.53.18:605][427]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-18.53.18:605][427]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11570.159180, Update Interval: 333.307892
+[2026.02.20-18.59.40:983][574]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11952.771484
+[2026.02.20-18.59.41:983][577]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-18.59.41:983][577]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11953.438477, Update Interval: 346.506531
+[2026.02.20-19.03.20:110][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.20-19.03.20:749][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.03.20:819][662]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.20-19.03.20:840][662]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.20-19.03.20:840][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.20-19.03.20:868][662]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.20-19.03.20:868][662]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_ThirdPersonCharacterE446D06348A613B1D1E7799393F16489.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.20-19.03.20:874][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.768 ms (total: 3.15 sec)
+[2026.02.20-19.03.20:932][662]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.03.20:932][662]LogContentValidation: Enabled validators:
+[2026.02.20-19.03.20:932][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.03.20:932][662]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.03.20:932][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.03.20:933][662]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.03.20:933][662]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.03.20:933][662]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.03.20:933][662]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.20-19.03.25:561][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.02.20-19.03.26:362][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.03.26:442][912]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.20-19.03.26:463][912]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.20-19.03.26:463][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.20-19.03.26:488][912]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.20-19.03.26:490][912]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_ThirdPersonCharacter2F1FF6F141A54495FC3FDCA8FA73E20D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.20-19.03.26:496][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.031 ms (total: 3.29 sec)
+[2026.02.20-19.03.26:542][912]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.03.26:542][912]LogContentValidation: Enabled validators:
+[2026.02.20-19.03.26:542][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.03.26:542][912]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.03.26:542][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.03.26:542][912]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.03.26:542][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.03.26:542][912]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.03.26:542][912]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.20-19.05.21:844][433]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-19.05.21:849][433]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-19.05.21:849][433]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-19.05.21:850][433]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 460 us (total: 11.308 ms)
+[2026.02.20-19.05.21:850][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-19.05.21:882][433]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.05.21:886][433]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.20-19.05.21:886][433]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 699 us (total: 15.690 ms)
+[2026.02.20-19.05.21:886][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004264s)
+[2026.02.20-19.05.21:886][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004289s)
+[2026.02.20-19.05.21:906][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.20-19.05.21:912][433]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.20-19.05.21:913][433]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.20-19.05.21:913][433]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.20-19.05.21:913][433]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.20-19.05.21:913][433]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.20-19.05.21:914][433]LogWorldPartition: Display: WorldPartition initialize took 936 us (total: 109.961 ms)
+[2026.02.20-19.05.21:914][433]LogPlayLevel: PIE: World Init took: (0.002178s)
+[2026.02.20-19.05.21:915][433]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.02.20-19.05.21:915][433]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-19.05.21:915][433]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-19.05.21:915][433]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-19.05.21:915][433]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-19.05.21:915][433]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-19.05.21:915][433]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-19.05.21:915][433]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-19.05.21:915][433]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-19.05.21:915][433]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-19.05.21:915][433]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-19.05.21:915][433]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-19.05.21:916][433]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-19.05.21:932][433]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.20-19.05.21:932][433]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-19.05.21:932][433]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-19.05.21:932][433]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-19.05.21:933][433]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.02.20-19.05.21:933][433]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.02.20-19.05.21:934][433]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.02.20-19.05.21:934][433]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.02.20-19.05.21:934][433]LogInit: FAudioDevice initialized with ID 23.
+[2026.02.20-19.05.21:934][433]LogAudio: Display: Audio Device (ID: 23) registered with world 'Lvl_ThirdPerson'.
+[2026.02.20-19.05.21:934][433]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.02.20-19.05.21:937][433]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.20-19.05.21:939][433]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.20-19.05.21
+[2026.02.20-19.05.21:939][433]LogWorld: Bringing up level for play took: 0.001245
+[2026.02.20-19.05.21:940][433]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2026.02.20-19.05.21:944][433]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.02.20-19.05.21:944][433]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.20-19.05.21:945][433]PIE: Server logged in
+[2026.02.20-19.05.21:946][433]PIE: Play in editor total start time 0.097 seconds.
+[2026.02.20-19.05.30:663][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.05.30:663][948]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.05.30:663][948]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-19.05.30:663][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.05.30:663][948]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.20-19.05.30:664][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-19.05.30:668][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.05.30:684][948]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-19.05.30:684][948]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.02.20-19.05.30:684][948]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.02.20-19.05.30:686][948]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.02.20-19.05.30:688][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.05.30:690][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.20-19.05.30:739][949]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2026.02.20-19.06.26:501][732]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12358.246094
+[2026.02.20-19.06.27:500][735]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-19.06.27:500][735]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12358.912109, Update Interval: 344.644318
+[2026.02.20-19.09.59:803][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.20-19.09.59:807][931]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.022
+[2026.02.20-19.09.59:807][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.20-19.09.59:825][931]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.20-19.09.59:825][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.20-19.09.59:852][931]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2026.02.20-19.09.59:853][931]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_ThirdPersonCharacter_Auto77820B25E4F2E6137D4E664B8EDA49153.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2026.02.20-19.09.59:854][931]LogFileHelpers: Auto-saving content packages took 0.047
+[2026.02.20-19.11.04:946][677]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Stealth 700X Gen 3), InstanceID=1
+[2026.02.20-19.11.04:946][677]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{92c7fbb0-4815-4d40-a604-6abf062107b9}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.20-19.11.05:014][677]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{92c7fbb0-4815-4d40-a604-6abf062107b9}]
+[2026.02.20-19.11.05:014][677]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.20-19.11.05:014][677]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.20-19.11.05:348][678]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{92c7fbb0-4815-4d40-a604-6abf062107b9}, Name=Speakers (Stealth 700X Gen 3)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.70
+[2026.02.20-19.11.05:348][678]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.20-19.11.05:348][678]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.20-19.11.05:349][678]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.20-19.13.09:759][990]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12761.248047
+[2026.02.20-19.13.10:760][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-19.13.10:760][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12761.916016, Update Interval: 308.851593
+[2026.02.20-19.18.58:573][ 91]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13109.801758
+[2026.02.20-19.18.58:774][103]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-19.18.58:774][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13109.984375, Update Interval: 339.172943
+[2026.02.20-19.19.54:971][278]LogEditorTransaction: Undo Delete current selection
+[2026.02.20-19.19.55:183][278]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.19.55:185][278]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.20.29:719][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.20-19.20.29:722][697]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.023
+[2026.02.20-19.20.29:723][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.20-19.20.29:747][697]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.20-19.20.29:747][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.20-19.20.29:777][697]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8
+[2026.02.20-19.20.29:777][697]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_ThirdPersonCharacter_Auto836C2CE394FC794D69DCBDDB52A322844.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8.uasset'
+[2026.02.20-19.20.29:778][697]LogFileHelpers: Auto-saving content packages took 0.056
+[2026.02.20-19.23.13:138][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.02.20-19.23.13:907][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.23.13:976][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.20-19.23.13:996][949]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.20-19.23.13:996][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.20-19.23.14:024][949]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.20-19.23.14:024][949]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_ThirdPersonCharacterE5BA9AD3402E297BE12C938BA8B412F4.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.20-19.23.14:031][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.013 ms (total: 3.41 sec)
+[2026.02.20-19.23.14:072][949]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.23.14:072][949]LogContentValidation: Enabled validators:
+[2026.02.20-19.23.14:072][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.23.14:072][949]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.23.14:072][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.23.14:072][949]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.23.14:072][949]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.23.14:072][949]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.23.14:072][949]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.20-19.23.15:389][ 12]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-19.23.15:393][ 12]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-19.23.15:393][ 12]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-19.23.15:393][ 12]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 467 us (total: 11.776 ms)
+[2026.02.20-19.23.15:394][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-19.23.15:394][ 12]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.23.15:397][ 12]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.20-19.23.15:398][ 12]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 718 us (total: 16.408 ms)
+[2026.02.20-19.23.15:398][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004458s)
+[2026.02.20-19.23.15:398][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004480s)
+[2026.02.20-19.23.15:416][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.02.20-19.23.15:423][ 12]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.20-19.23.15:424][ 12]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.20-19.23.15:424][ 12]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.20-19.23.15:424][ 12]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.20-19.23.15:424][ 12]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.20-19.23.15:425][ 12]LogWorldPartition: Display: WorldPartition initialize took 1.024 ms (total: 110.985 ms)
+[2026.02.20-19.23.15:425][ 12]LogPlayLevel: PIE: World Init took: (0.002264s)
+[2026.02.20-19.23.15:426][ 12]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.02.20-19.23.15:426][ 12]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-19.23.15:426][ 12]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-19.23.15:426][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-19.23.15:426][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-19.23.15:426][ 12]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-19.23.15:426][ 12]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-19.23.15:426][ 12]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-19.23.15:426][ 12]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-19.23.15:426][ 12]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-19.23.15:426][ 12]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-19.23.15:426][ 12]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-19.23.15:428][ 12]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-19.23.15:450][ 12]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 700X Gen 3)
+[2026.02.20-19.23.15:450][ 12]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-19.23.15:450][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-19.23.15:450][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-19.23.15:451][ 12]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.02.20-19.23.15:451][ 12]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.02.20-19.23.15:452][ 12]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.02.20-19.23.15:452][ 12]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.02.20-19.23.15:452][ 12]LogInit: FAudioDevice initialized with ID 24.
+[2026.02.20-19.23.15:452][ 12]LogAudio: Display: Audio Device (ID: 24) registered with world 'Lvl_ThirdPerson'.
+[2026.02.20-19.23.15:452][ 12]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.02.20-19.23.15:455][ 12]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.20-19.23.15:456][ 12]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.20-19.23.15
+[2026.02.20-19.23.15:457][ 12]LogWorld: Bringing up level for play took: 0.001315
+[2026.02.20-19.23.15:458][ 12]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.02.20-19.23.15:462][ 12]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.02.20-19.23.15:462][ 12]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.20-19.23.15:462][ 12]PIE: Server logged in
+[2026.02.20-19.23.15:463][ 12]PIE: Play in editor total start time 0.07 seconds.
+[2026.02.20-19.23.30:391][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.23.30:391][908]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.23.30:391][908]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-19.23.30:392][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.23.30:392][908]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.20-19.23.30:393][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-19.23.30:397][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.23.30:412][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-19.23.30:412][908]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.02.20-19.23.30:412][908]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.02.20-19.23.30:414][908]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.02.20-19.23.30:418][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.23.30:420][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.02.20-19.23.30:469][909]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.02.20-19.25.31:497][470]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13502.472656
+[2026.02.20-19.25.31:736][477]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-19.25.31:736][477]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13502.677734, Update Interval: 316.423218
+[2026.02.20-19.30.36:222][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.20-19.30.36:898][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.30.36:961][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.20-19.30.36:980][340]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.20-19.30.36:980][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.20-19.30.37:008][340]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.20-19.30.37:008][340]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_ThirdPersonCharacter4D4315A9484EB18E21C6038D93B80503.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.20-19.30.37:014][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.895 ms (total: 3.53 sec)
+[2026.02.20-19.30.37:040][340]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.30.37:040][340]LogContentValidation: Enabled validators:
+[2026.02.20-19.30.37:040][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.30.37:040][340]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.30.37:040][340]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.30.37:040][340]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.30.37:040][340]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.30.37:040][340]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.30.37:041][340]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.20-19.30.38:469][425]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-19.30.38:474][425]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-19.30.38:474][425]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-19.30.38:474][425]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 467 us (total: 12.244 ms)
+[2026.02.20-19.30.38:474][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-19.30.38:506][425]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.30.38:508][425]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.20-19.30.38:510][425]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 712 us (total: 17.120 ms)
+[2026.02.20-19.30.38:510][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004207s)
+[2026.02.20-19.30.38:510][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004230s)
+[2026.02.20-19.30.38:528][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.02.20-19.30.38:533][425]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.20-19.30.38:536][425]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.20-19.30.38:536][425]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.20-19.30.38:536][425]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.20-19.30.38:536][425]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.20-19.30.38:536][425]LogWorldPartition: Display: WorldPartition initialize took 929 us (total: 111.915 ms)
+[2026.02.20-19.30.38:536][425]LogPlayLevel: PIE: World Init took: (0.002167s)
+[2026.02.20-19.30.38:537][425]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.02.20-19.30.38:537][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-19.30.38:537][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-19.30.38:537][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-19.30.38:537][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-19.30.38:537][425]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-19.30.38:537][425]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-19.30.38:537][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-19.30.38:537][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-19.30.38:537][425]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-19.30.38:537][425]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-19.30.38:537][425]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-19.30.38:539][425]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-19.30.38:560][425]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 700X Gen 3)
+[2026.02.20-19.30.38:560][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-19.30.38:560][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-19.30.38:560][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-19.30.38:561][425]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.02.20-19.30.38:561][425]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.02.20-19.30.38:562][425]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.02.20-19.30.38:562][425]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.02.20-19.30.38:562][425]LogInit: FAudioDevice initialized with ID 25.
+[2026.02.20-19.30.38:562][425]LogAudio: Display: Audio Device (ID: 25) registered with world 'Lvl_ThirdPerson'.
+[2026.02.20-19.30.38:562][425]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.02.20-19.30.38:566][425]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.20-19.30.38:567][425]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.20-19.30.38
+[2026.02.20-19.30.38:567][425]LogWorld: Bringing up level for play took: 0.001147
+[2026.02.20-19.30.38:568][425]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.02.20-19.30.38:572][425]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.02.20-19.30.38:572][425]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.20-19.30.38:573][425]PIE: Server logged in
+[2026.02.20-19.30.38:573][425]PIE: Play in editor total start time 0.1 seconds.
+[2026.02.20-19.30.53:365][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.30.53:365][308]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.30.53:366][308]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-19.30.53:366][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.30.53:366][308]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.20-19.30.53:371][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-19.30.53:375][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.30.53:391][308]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-19.30.53:391][308]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.02.20-19.30.53:391][308]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2026.02.20-19.30.53:393][308]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2026.02.20-19.30.53:396][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.30.53:398][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.20-19.30.53:448][309]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.02.20-19.31.27:929][518]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13858.880859
+[2026.02.20-19.31.28:928][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-19.31.28:928][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13859.547852, Update Interval: 313.773621
+[2026.02.20-19.34.03:980][548]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-19.34.03:985][548]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-19.34.03:985][548]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-19.34.03:985][548]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 453 us (total: 12.697 ms)
+[2026.02.20-19.34.03:985][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-19.34.03:986][548]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.34.03:990][548]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.20-19.34.03:990][548]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 698 us (total: 17.818 ms)
+[2026.02.20-19.34.03:990][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004246s)
+[2026.02.20-19.34.03:990][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004265s)
+[2026.02.20-19.34.04:026][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.20-19.34.04:029][548]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.20-19.34.04:030][548]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.20-19.34.04:030][548]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.20-19.34.04:030][548]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.20-19.34.04:030][548]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.20-19.34.04:031][548]LogWorldPartition: Display: WorldPartition initialize took 991 us (total: 112.907 ms)
+[2026.02.20-19.34.04:031][548]LogPlayLevel: PIE: World Init took: (0.002285s)
+[2026.02.20-19.34.04:032][548]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.02.20-19.34.04:032][548]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-19.34.04:032][548]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-19.34.04:032][548]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-19.34.04:032][548]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-19.34.04:032][548]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-19.34.04:032][548]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-19.34.04:032][548]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-19.34.04:032][548]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-19.34.04:032][548]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-19.34.04:032][548]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-19.34.04:032][548]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-19.34.04:034][548]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-19.34.04:053][548]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 700X Gen 3)
+[2026.02.20-19.34.04:053][548]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-19.34.04:053][548]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-19.34.04:053][548]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-19.34.04:053][548]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2026.02.20-19.34.04:053][548]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2026.02.20-19.34.04:055][548]LogInit: FAudioDevice initialized with ID 26.
+[2026.02.20-19.34.04:055][548]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.02.20-19.34.04:055][548]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2026.02.20-19.34.04:055][548]LogAudio: Display: Audio Device (ID: 26) registered with world 'Lvl_ThirdPerson'.
+[2026.02.20-19.34.04:055][548]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.02.20-19.34.04:058][548]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.20-19.34.04:060][548]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.20-19.34.04
+[2026.02.20-19.34.04:060][548]LogWorld: Bringing up level for play took: 0.001272
+[2026.02.20-19.34.04:061][548]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.02.20-19.34.04:064][548]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.02.20-19.34.04:064][548]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.20-19.34.04:065][548]PIE: Server logged in
+[2026.02.20-19.34.04:066][548]PIE: Play in editor total start time 0.081 seconds.
+[2026.02.20-19.34.06:500][692]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 900
+[2026.02.20-19.34.10:449][929]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1000
+[2026.02.20-19.34.12:288][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.34.12:288][ 37]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.34.12:288][ 37]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-19.34.12:288][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.34.12:288][ 37]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.20-19.34.12:289][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-19.34.12:293][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.34.12:308][ 37]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-19.34.12:309][ 37]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.02.20-19.34.12:309][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2026.02.20-19.34.12:310][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2026.02.20-19.34.12:313][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.34.12:315][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.02.20-19.34.12:363][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.02.20-19.37.40:938][915]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14231.763672
+[2026.02.20-19.37.41:139][927]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-19.37.41:139][927]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14231.946289, Update Interval: 327.937256
+[2026.02.20-19.39.18:659][899]LogBlueprint: Warning: [AssetLog] C:\Users\willi\OneDrive\Documents\UnrealGame\Gameprototyping-test\CurrentGame\MyProject\Content\Collectibles\BP_HealthPickup.uasset: [Compiler] Set Health  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2026.02.20-19.39.18:689][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.02.20-19.40.12:653][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.02.20-19.40.12:656][552]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.022
+[2026.02.20-19.40.12:656][552]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-19.40.12:656][552]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.02.20-19.40.12:688][552]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-19.40.12:688][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-19.40.12:696][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Collectibles/BP_HealthPickup_Auto9
+[2026.02.20-19.40.12:696][552]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickup_Auto915BA784E4B89DF3C097635855D1E413F.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/Collectibles/BP_HealthPickup_Auto9.uasset'
+[2026.02.20-19.40.12:697][552]LogFileHelpers: Auto-saving content packages took 0.041
+[2026.02.20-19.41.25:687][689]LogEditorTransaction: Undo Delete current selection
+[2026.02.20-19.41.25:893][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.41.25:894][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.41.26:549][706]LogEditorTransaction: Undo Delete current selection
+[2026.02.20-19.41.26:747][706]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.41.26:749][706]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.41.27:100][718]LogEditorTransaction: Undo Move Node
+[2026.02.20-19.41.27:295][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.41.27:297][718]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.41.27:639][728]LogEditorTransaction: Undo Break Pin Link
+[2026.02.20-19.41.27:836][728]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.41.27:838][728]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.41.28:187][738]LogEditorTransaction: Undo Delete current selection
+[2026.02.20-19.41.28:385][738]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.41.28:387][738]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.41.28:653][746]LogEditorTransaction: Undo Create Pin Link
+[2026.02.20-19.41.28:851][746]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.41.28:852][746]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.42.20:693][478]LogDerivedDataCache: C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.20-19.43.57:809][ 16]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14608.336914
+[2026.02.20-19.43.57:993][ 27]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-19.43.57:993][ 27]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14608.503906, Update Interval: 310.184631
+[2026.02.20-19.44.48:888][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.20-19.44.49:642][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.44.49:676][427]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-19.44.49:696][427]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-19.44.49:696][427]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-19.44.49:702][427]LogSavePackage: Moving output files for package: /Game/Collectibles/BP_HealthPickup
+[2026.02.20-19.44.49:703][427]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickupC72660F346990BC75B71138ECE9578E8.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Collectibles/BP_HealthPickup.uasset'
+[2026.02.20-19.44.49:709][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.343 ms (total: 3.59 sec)
+[2026.02.20-19.44.49:755][427]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.44.49:755][427]LogContentValidation: Enabled validators:
+[2026.02.20-19.44.49:755][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.44.49:755][427]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.44.49:755][427]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.44.49:755][427]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.44.49:755][427]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.44.49:755][427]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.44.49:755][427]AssetCheck: /Game/Collectibles/BP_HealthPickup Validating asset
+[2026.02.20-19.44.51:153][502]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-19.44.51:158][502]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-19.44.51:158][502]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-19.44.51:159][502]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 521 us (total: 13.219 ms)
+[2026.02.20-19.44.51:159][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-19.44.51:185][502]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.44.51:189][502]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.20-19.44.51:189][502]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 708 us (total: 18.527 ms)
+[2026.02.20-19.44.51:189][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004391s)
+[2026.02.20-19.44.51:189][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004418s)
+[2026.02.20-19.44.51:207][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.20-19.44.51:212][502]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.20-19.44.51:213][502]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.20-19.44.51:213][502]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.20-19.44.51:213][502]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.20-19.44.51:213][502]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.20-19.44.51:214][502]LogWorldPartition: Display: WorldPartition initialize took 903 us (total: 113.811 ms)
+[2026.02.20-19.44.51:214][502]LogPlayLevel: PIE: World Init took: (0.002111s)
+[2026.02.20-19.44.51:215][502]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.02.20-19.44.51:215][502]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-19.44.51:215][502]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-19.44.51:215][502]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-19.44.51:215][502]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-19.44.51:215][502]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-19.44.51:215][502]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-19.44.51:215][502]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-19.44.51:215][502]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-19.44.51:215][502]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-19.44.51:215][502]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-19.44.51:215][502]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-19.44.51:216][502]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-19.44.51:237][502]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 700X Gen 3)
+[2026.02.20-19.44.51:237][502]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-19.44.51:237][502]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-19.44.51:237][502]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-19.44.51:237][502]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.02.20-19.44.51:237][502]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2026.02.20-19.44.51:239][502]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.02.20-19.44.51:239][502]LogInit: FAudioDevice initialized with ID 27.
+[2026.02.20-19.44.51:239][502]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.02.20-19.44.51:239][502]LogAudio: Display: Audio Device (ID: 27) registered with world 'Lvl_ThirdPerson'.
+[2026.02.20-19.44.51:239][502]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.02.20-19.44.51:242][502]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.20-19.44.51:243][502]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.20-19.44.51
+[2026.02.20-19.44.51:243][502]LogWorld: Bringing up level for play took: 0.001174
+[2026.02.20-19.44.51:245][502]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2026.02.20-19.44.51:248][502]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.02.20-19.44.51:248][502]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.20-19.44.51:248][502]PIE: Server logged in
+[2026.02.20-19.44.51:249][502]PIE: Play in editor total start time 0.091 seconds.
+[2026.02.20-19.44.53:504][640]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 900
+[2026.02.20-19.44.57:121][857]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1000
+[2026.02.20-19.45.01:696][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.45.01:696][129]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.45.01:696][129]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-19.45.01:697][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.45.01:697][129]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.20-19.45.01:698][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-19.45.01:702][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.45.01:717][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.45.01:717][129]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.02.20-19.45.01:718][129]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2026.02.20-19.45.01:719][129]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2026.02.20-19.45.01:724][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.02.20-19.45.01:773][130]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2026.02.20-19.46.17:907][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.20-19.46.18:403][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.46.18:486][386]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-19.46.18:506][386]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-19.46.18:506][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-19.46.18:512][386]LogSavePackage: Moving output files for package: /Game/Collectibles/BP_HealthPickup
+[2026.02.20-19.46.18:512][386]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickup382A97C1458A0D173666979099A9FB78.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Collectibles/BP_HealthPickup.uasset'
+[2026.02.20-19.46.18:517][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.007 ms (total: 3.71 sec)
+[2026.02.20-19.46.18:557][386]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.46.18:557][386]LogContentValidation: Enabled validators:
+[2026.02.20-19.46.18:557][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.46.18:557][386]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.46.18:557][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.46.18:557][386]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.46.18:557][386]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.46.18:558][386]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.46.18:558][386]AssetCheck: /Game/Collectibles/BP_HealthPickup Validating asset
+[2026.02.20-19.46.19:990][461]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-19.46.19:994][461]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-19.46.19:994][461]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-19.46.19:995][461]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 445 us (total: 13.664 ms)
+[2026.02.20-19.46.19:995][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-19.46.19:995][461]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.46.19:998][461]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.20-19.46.19:999][461]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 706 us (total: 19.234 ms)
+[2026.02.20-19.46.19:999][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004420s)
+[2026.02.20-19.46.19:999][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004441s)
+[2026.02.20-19.46.20:018][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.02.20-19.46.20:022][461]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.20-19.46.20:023][461]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.20-19.46.20:023][461]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.20-19.46.20:023][461]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.20-19.46.20:023][461]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.20-19.46.20:024][461]LogWorldPartition: Display: WorldPartition initialize took 961 us (total: 114.773 ms)
+[2026.02.20-19.46.20:024][461]LogPlayLevel: PIE: World Init took: (0.002188s)
+[2026.02.20-19.46.20:024][461]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2026.02.20-19.46.20:024][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-19.46.20:024][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-19.46.20:024][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-19.46.20:024][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-19.46.20:024][461]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-19.46.20:024][461]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-19.46.20:024][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-19.46.20:024][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-19.46.20:024][461]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-19.46.20:024][461]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-19.46.20:024][461]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-19.46.20:026][461]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-19.46.20:044][461]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 700X Gen 3)
+[2026.02.20-19.46.20:044][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-19.46.20:044][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-19.46.20:044][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-19.46.20:045][461]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2026.02.20-19.46.20:045][461]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2026.02.20-19.46.20:046][461]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2026.02.20-19.46.20:046][461]LogInit: FAudioDevice initialized with ID 28.
+[2026.02.20-19.46.20:046][461]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2026.02.20-19.46.20:046][461]LogAudio: Display: Audio Device (ID: 28) registered with world 'Lvl_ThirdPerson'.
+[2026.02.20-19.46.20:046][461]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2026.02.20-19.46.20:048][461]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.20-19.46.20:050][461]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.20-19.46.20
+[2026.02.20-19.46.20:050][461]LogWorld: Bringing up level for play took: 0.001148
+[2026.02.20-19.46.20:051][461]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.02.20-19.46.20:054][461]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.02.20-19.46.20:054][461]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.20-19.46.20:054][461]PIE: Server logged in
+[2026.02.20-19.46.20:056][461]PIE: Play in editor total start time 0.062 seconds.
+[2026.02.20-19.46.22:477][609]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 900
+[2026.02.20-19.46.25:877][813]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1000
+[2026.02.20-19.46.27:827][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.46.27:827][928]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.46.27:827][928]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-19.46.27:828][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.46.27:828][928]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.20-19.46.27:829][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-19.46.27:833][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.46.27:848][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.46.27:848][928]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2026.02.20-19.46.27:848][928]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2026.02.20-19.46.27:850][928]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2026.02.20-19.46.27:854][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.02.20-19.46.27:903][929]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.02.20-19.49.59:158][ 73]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14969.503906
+[2026.02.20-19.50.00:159][ 76]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-19.50.00:159][ 76]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14970.170898, Update Interval: 348.114258
+[2026.02.20-19.50.31:553][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.20-19.50.31:557][170]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.022
+[2026.02.20-19.50.31:557][170]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-19.50.31:557][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-19.50.31:564][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Collectibles/BP_HealthPickup_Auto0
+[2026.02.20-19.50.31:564][170]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickup_Auto019785F4E44E6F148FBF04F879D60DE59.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/Collectibles/BP_HealthPickup_Auto0.uasset'
+[2026.02.20-19.50.31:564][170]LogFileHelpers: Auto-saving content packages took 0.007
+[2026.02.20-19.51.33:415][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.20-19.51.33:906][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.51.33:993][870]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-19.51.34:012][870]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-19.51.34:012][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-19.51.34:018][870]LogSavePackage: Moving output files for package: /Game/Collectibles/BP_HealthPickup
+[2026.02.20-19.51.34:018][870]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickup1230F549455638776C76F4BDD7C1C6E2.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Collectibles/BP_HealthPickup.uasset'
+[2026.02.20-19.51.34:024][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.141 ms (total: 3.82 sec)
+[2026.02.20-19.51.34:075][870]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.51.34:075][870]LogContentValidation: Enabled validators:
+[2026.02.20-19.51.34:075][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.51.34:075][870]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.51.34:075][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.51.34:075][870]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.51.34:075][870]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.51.34:075][870]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.51.34:075][870]AssetCheck: /Game/Collectibles/BP_HealthPickup Validating asset
+[2026.02.20-19.51.35:417][933]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-19.51.35:421][933]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-19.51.35:421][933]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-19.51.35:421][933]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 437 us (total: 14.101 ms)
+[2026.02.20-19.51.35:422][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-19.51.35:422][933]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.51.35:425][933]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.20-19.51.35:426][933]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 763 us (total: 19.997 ms)
+[2026.02.20-19.51.35:426][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004399s)
+[2026.02.20-19.51.35:426][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004421s)
+[2026.02.20-19.51.35:443][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.20-19.51.35:447][933]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.20-19.51.35:448][933]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.20-19.51.35:448][933]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.20-19.51.35:448][933]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.20-19.51.35:448][933]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.20-19.51.35:449][933]LogWorldPartition: Display: WorldPartition initialize took 944 us (total: 115.717 ms)
+[2026.02.20-19.51.35:449][933]LogPlayLevel: PIE: World Init took: (0.002208s)
+[2026.02.20-19.51.35:450][933]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2026.02.20-19.51.35:450][933]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-19.51.35:450][933]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-19.51.35:450][933]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-19.51.35:450][933]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-19.51.35:450][933]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-19.51.35:450][933]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-19.51.35:450][933]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-19.51.35:450][933]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-19.51.35:450][933]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-19.51.35:450][933]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-19.51.35:450][933]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-19.51.35:451][933]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-19.51.35:472][933]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 700X Gen 3)
+[2026.02.20-19.51.35:472][933]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-19.51.35:472][933]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-19.51.35:472][933]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-19.51.35:472][933]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2026.02.20-19.51.35:472][933]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2026.02.20-19.51.35:474][933]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2026.02.20-19.51.35:474][933]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2026.02.20-19.51.35:474][933]LogInit: FAudioDevice initialized with ID 29.
+[2026.02.20-19.51.35:474][933]LogAudio: Display: Audio Device (ID: 29) registered with world 'Lvl_ThirdPerson'.
+[2026.02.20-19.51.35:474][933]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2026.02.20-19.51.35:477][933]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.20-19.51.35:478][933]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.20-19.51.35
+[2026.02.20-19.51.35:478][933]LogWorld: Bringing up level for play took: 0.001187
+[2026.02.20-19.51.35:479][933]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.02.20-19.51.35:482][933]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.02.20-19.51.35:482][933]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.20-19.51.35:483][933]PIE: Server logged in
+[2026.02.20-19.51.35:483][933]PIE: Play in editor total start time 0.063 seconds.
+[2026.02.20-19.51.38:672][126]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 900
+[2026.02.20-19.51.42:738][370]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1000
+[2026.02.20-19.51.47:101][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.51.47:101][630]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.51.47:101][630]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-19.51.47:102][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.51.47:102][630]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.20-19.51.47:104][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-19.51.47:108][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.51.47:124][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.51.47:124][630]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2026.02.20-19.51.47:124][630]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2026.02.20-19.51.47:125][630]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2026.02.20-19.51.47:131][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.20-19.51.47:180][631]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.02.20-19.54.07:309][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.20-19.54.07:812][311]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.54.07:902][311]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-19.54.07:924][311]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-19.54.07:924][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-19.54.07:930][311]LogSavePackage: Moving output files for package: /Game/Collectibles/BP_HealthPickup
+[2026.02.20-19.54.07:931][311]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickupF41288EE435927345059C585EFD53B16.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Collectibles/BP_HealthPickup.uasset'
+[2026.02.20-19.54.07:937][311]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.481 ms (total: 3.95 sec)
+[2026.02.20-19.54.07:974][311]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.54.07:974][311]LogContentValidation: Enabled validators:
+[2026.02.20-19.54.07:974][311]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.54.07:974][311]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.54.07:974][311]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.54.07:974][311]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.54.07:974][311]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.54.07:974][311]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.54.07:974][311]AssetCheck: /Game/Collectibles/BP_HealthPickup Validating asset
+[2026.02.20-19.54.09:677][388]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-19.54.09:682][388]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-19.54.09:682][388]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-19.54.09:682][388]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 427 us (total: 14.529 ms)
+[2026.02.20-19.54.09:682][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-19.54.09:682][388]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.54.09:686][388]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.20-19.54.09:687][388]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 702 us (total: 20.700 ms)
+[2026.02.20-19.54.09:687][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004262s)
+[2026.02.20-19.54.09:687][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004284s)
+[2026.02.20-19.54.09:704][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.20-19.54.09:708][388]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.20-19.54.09:709][388]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.20-19.54.09:709][388]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.20-19.54.09:709][388]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.20-19.54.09:709][388]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.20-19.54.09:710][388]LogWorldPartition: Display: WorldPartition initialize took 946 us (total: 116.664 ms)
+[2026.02.20-19.54.09:710][388]LogPlayLevel: PIE: World Init took: (0.002126s)
+[2026.02.20-19.54.09:710][388]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2026.02.20-19.54.09:710][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-19.54.09:710][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-19.54.09:710][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-19.54.09:710][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-19.54.09:710][388]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-19.54.09:710][388]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-19.54.09:710][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-19.54.09:710][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-19.54.09:710][388]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-19.54.09:710][388]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-19.54.09:710][388]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-19.54.09:711][388]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-19.54.09:731][388]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 700X Gen 3)
+[2026.02.20-19.54.09:731][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-19.54.09:731][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-19.54.09:731][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-19.54.09:731][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2026.02.20-19.54.09:731][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2026.02.20-19.54.09:733][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2026.02.20-19.54.09:733][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2026.02.20-19.54.09:733][388]LogInit: FAudioDevice initialized with ID 30.
+[2026.02.20-19.54.09:733][388]LogAudio: Display: Audio Device (ID: 30) registered with world 'Lvl_ThirdPerson'.
+[2026.02.20-19.54.09:733][388]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2026.02.20-19.54.09:735][388]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.20-19.54.09:737][388]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.20-19.54.09
+[2026.02.20-19.54.09:737][388]LogWorld: Bringing up level for play took: 0.001137
+[2026.02.20-19.54.09:738][388]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.02.20-19.54.09:742][388]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.02.20-19.54.09:742][388]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.20-19.54.09:743][388]PIE: Server logged in
+[2026.02.20-19.54.09:743][388]PIE: Play in editor total start time 0.061 seconds.
+[2026.02.20-19.54.12:215][533]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 900
+[2026.02.20-19.54.15:666][740]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1000
+[2026.02.20-19.54.19:834][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.54.19:834][987]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.54.19:834][987]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-19.54.19:834][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.54.19:834][987]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.20-19.54.19:835][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-19.54.19:840][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.54.19:854][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.54.19:854][987]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2026.02.20-19.54.19:854][987]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=4
+[2026.02.20-19.54.19:856][987]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=2
+[2026.02.20-19.54.19:861][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.02.20-19.54.19:909][988]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.02.20-19.55.57:911][953]LogBlueprint: Error: [AssetLog] C:\Users\willi\OneDrive\Documents\UnrealGame\Gameprototyping-test\CurrentGame\MyProject\Content\Collectibles\BP_HealthPickup.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update Lives . Please refresh node or break links to remove pin.
+[2026.02.20-19.55.57:911][953]LogBlueprint: Error: [AssetLog] C:\Users\willi\OneDrive\Documents\UnrealGame\Gameprototyping-test\CurrentGame\MyProject\Content\Collectibles\BP_HealthPickup.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update Lives . Please refresh node or break links to remove pin.
+[2026.02.20-19.55.57:911][953]LogBlueprint: Error: [AssetLog] C:\Users\willi\OneDrive\Documents\UnrealGame\Gameprototyping-test\CurrentGame\MyProject\Content\Collectibles\BP_HealthPickup.uasset: [Compiler] In use pin  Target  no longer exists on node  Update Lives . Please refresh node or break links to remove pin.
+[2026.02.20-19.55.57:911][953]LogBlueprint: Error: [AssetLog] C:\Users\willi\OneDrive\Documents\UnrealGame\Gameprototyping-test\CurrentGame\MyProject\Content\Collectibles\BP_HealthPickup.uasset: [Compiler] Could not find a function named "UpdateLives" in 'WB_RobotHud_C'.
+Make sure 'WB_RobotHud_C' has been compiled for  Update Lives
+[2026.02.20-19.55.57:924][953]LogBlueprint: Error: [AssetLog] C:\Users\willi\OneDrive\Documents\UnrealGame\Gameprototyping-test\CurrentGame\MyProject\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update Lives . Please refresh node or break links to remove pin.
+[2026.02.20-19.55.57:924][953]LogBlueprint: Error: [AssetLog] C:\Users\willi\OneDrive\Documents\UnrealGame\Gameprototyping-test\CurrentGame\MyProject\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update Lives . Please refresh node or break links to remove pin.
+[2026.02.20-19.55.57:924][953]LogBlueprint: Error: [AssetLog] C:\Users\willi\OneDrive\Documents\UnrealGame\Gameprototyping-test\CurrentGame\MyProject\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] In use pin  Target  no longer exists on node  Update Lives . Please refresh node or break links to remove pin.
+[2026.02.20-19.55.57:924][953]LogBlueprint: Error: [AssetLog] C:\Users\willi\OneDrive\Documents\UnrealGame\Gameprototyping-test\CurrentGame\MyProject\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Could not find a function named "UpdateLives" in 'WB_RobotHud_C'.
+Make sure 'WB_RobotHud_C' has been compiled for  Update Lives
+[2026.02.20-19.55.57:927][953]LogBlueprint: Error: [AssetLog] C:\Users\willi\OneDrive\Documents\UnrealGame\Gameprototyping-test\CurrentGame\MyProject\Content\UI\WB_RobotHud.uasset: [Compiler] Could not find a function named "UpdateLives" in 'WB_RobotHud_C'.
+Make sure 'WB_RobotHud_C' has been compiled for  Update Lives
+[2026.02.20-19.55.57:950][953]LogStreaming: Display: FlushAsyncLoading(594): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-19.55.57:977][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.20-19.56.00:286][ 63]LogEditorTransaction: Undo Delete current selection
+[2026.02.20-19.56.00:496][ 63]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.56.00:497][ 63]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.56.21:803][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15352.090820
+[2026.02.20-19.56.22:804][341]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-19.56.22:804][341]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15352.756836, Update Interval: 357.998596
+[2026.02.20-19.56.35:499][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.56.35:545][419]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_RobotHud] ([2] browsable assets)...
+[2026.02.20-19.56.35:552][419]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_RobotHud.WB_RobotHud]
+[2026.02.20-19.56.35:552][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_RobotHud]
+[2026.02.20-19.56.35:552][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_RobotHud" FILE="../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/UI/WB_RobotHud.uasset" SILENT=true
+[2026.02.20-19.56.35:562][419]LogSavePackage: Moving output files for package: /Game/UI/WB_RobotHud
+[2026.02.20-19.56.35:562][419]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/WB_RobotHud17E96FC44342CE19DF9DFAAD6160FA1E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/UI/WB_RobotHud.uasset'
+[2026.02.20-19.56.35:569][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.455 ms (total: 4.02 sec)
+[2026.02.20-19.56.35:610][419]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.56.35:610][419]LogContentValidation: Enabled validators:
+[2026.02.20-19.56.35:610][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.56.35:610][419]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.56.35:611][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.56.35:611][419]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.56.35:611][419]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.56.35:611][419]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.56.35:611][419]AssetCheck: /Game/UI/WB_RobotHud Validating asset
+[2026.02.20-19.56.46:030][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.02.20-19.56.47:197][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.56.47:282][102]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_RobotHud] ([2] browsable assets)...
+[2026.02.20-19.56.47:287][102]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_RobotHud.WB_RobotHud]
+[2026.02.20-19.56.47:287][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_RobotHud]
+[2026.02.20-19.56.47:287][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_RobotHud" FILE="../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/UI/WB_RobotHud.uasset" SILENT=true
+[2026.02.20-19.56.47:300][102]LogSavePackage: Moving output files for package: /Game/UI/WB_RobotHud
+[2026.02.20-19.56.47:300][102]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/WB_RobotHud24821B9948EFF42D004676AE85E84E15.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/UI/WB_RobotHud.uasset'
+[2026.02.20-19.56.47:306][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.012 ms (total: 4.13 sec)
+[2026.02.20-19.56.47:337][102]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.56.47:337][102]LogContentValidation: Enabled validators:
+[2026.02.20-19.56.47:337][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.56.47:337][102]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.56.47:337][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.56.47:337][102]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.56.47:337][102]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.56.47:337][102]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.56.47:337][102]AssetCheck: /Game/UI/WB_RobotHud Validating asset
+[2026.02.20-19.56.49:234][191]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-19.56.49:239][191]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-19.56.49:239][191]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-19.56.49:239][191]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 433 us (total: 14.962 ms)
+[2026.02.20-19.56.49:239][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-19.56.49:239][191]BlueprintLog: Warning: Blueprint failed to compile:  BP_ThirdPersonCharacter
+[2026.02.20-19.56.49:239][191]BlueprintLog: Warning: Blueprint failed to compile:  BP_HealthPickup
+[2026.02.20-19.56.54:408][191]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.02.20-19.56.56:492][371]LogSlate: Window 'Message Log' being destroyed
+[2026.02.20-19.56.56:598][371]LogSlate: Window 'Message Log' being destroyed
+[2026.02.20-19.57.04:560][842]LogEditorTransaction: Undo Delete current selection
+[2026.02.20-19.57.04:771][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.57.04:773][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-19.57.06:884][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.02.20-19.57.07:547][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.57.07:668][909]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_RobotHud] ([2] browsable assets)...
+[2026.02.20-19.57.07:670][909]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_RobotHud.WB_RobotHud]
+[2026.02.20-19.57.07:670][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_RobotHud]
+[2026.02.20-19.57.07:670][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_RobotHud" FILE="../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/UI/WB_RobotHud.uasset" SILENT=true
+[2026.02.20-19.57.07:684][909]LogSavePackage: Moving output files for package: /Game/UI/WB_RobotHud
+[2026.02.20-19.57.07:684][909]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/WB_RobotHud246E84124BF9AA552EFBE38BC90077E7.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/UI/WB_RobotHud.uasset'
+[2026.02.20-19.57.07:691][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.356 ms (total: 4.27 sec)
+[2026.02.20-19.57.07:742][909]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.57.07:742][909]LogContentValidation: Enabled validators:
+[2026.02.20-19.57.07:742][909]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.57.07:742][909]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.57.07:742][909]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.57.07:742][909]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.57.07:742][909]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.57.07:742][909]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.57.07:742][909]AssetCheck: /Game/UI/WB_RobotHud Validating asset
+[2026.02.20-19.57.11:356][ 92]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-19.57.11:360][ 92]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-19.57.11:360][ 92]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-19.57.11:361][ 92]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 438 us (total: 15.401 ms)
+[2026.02.20-19.57.11:361][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-19.57.11:361][ 92]BlueprintLog: Warning: Blueprint failed to compile:  BP_ThirdPersonCharacter
+[2026.02.20-19.57.11:361][ 92]BlueprintLog: Warning: Blueprint failed to compile:  BP_HealthPickup
+[2026.02.20-19.57.20:462][ 92]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.02.20-19.57.26:688][313]LogSlate: Window 'Message Log' being destroyed
+[2026.02.20-19.57.26:809][313]LogSlate: Window 'Message Log' being destroyed
+[2026.02.20-19.57.36:738][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.02.20-19.57.37:258][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.57.37:344][939]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_RobotHud] ([2] browsable assets)...
+[2026.02.20-19.57.37:348][939]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_RobotHud.WB_RobotHud]
+[2026.02.20-19.57.37:348][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_RobotHud]
+[2026.02.20-19.57.37:348][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_RobotHud" FILE="../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/UI/WB_RobotHud.uasset" SILENT=true
+[2026.02.20-19.57.37:362][939]LogSavePackage: Moving output files for package: /Game/UI/WB_RobotHud
+[2026.02.20-19.57.37:363][939]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/WB_RobotHud019C0B4E425C145E34D6C48B13F25DB9.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/UI/WB_RobotHud.uasset'
+[2026.02.20-19.57.37:368][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.730 ms (total: 4.38 sec)
+[2026.02.20-19.57.37:398][939]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.57.37:398][939]LogContentValidation: Enabled validators:
+[2026.02.20-19.57.37:398][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.57.37:398][939]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.57.37:398][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.57.37:398][939]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.57.37:398][939]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.57.37:398][939]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.57.37:399][939]AssetCheck: /Game/UI/WB_RobotHud Validating asset
+[2026.02.20-19.57.40:630][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.20-19.57.58:553][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.02.20-19.57.59:698][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.57.59:767][169]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.20-19.57.59:786][169]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.20-19.57.59:786][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.20-19.57.59:813][169]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.20-19.57.59:814][169]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_ThirdPersonCharacter97725F63465342E6EFC4418963DB135F.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.20-19.57.59:820][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.070 ms (total: 4.50 sec)
+[2026.02.20-19.57.59:877][169]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.57.59:877][169]LogContentValidation: Enabled validators:
+[2026.02.20-19.57.59:877][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.57.59:877][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.57.59:877][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.57.59:877][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.57.59:877][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.57.59:877][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.57.59:877][169]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.20-19.58.04:253][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.20-19.58.04:745][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.58.04:821][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.20-19.58.04:840][442]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.20-19.58.04:840][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.20-19.58.04:868][442]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.20-19.58.04:868][442]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_ThirdPersonCharacter17C836004D70AE852D4E5FBEE9B5317D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.20-19.58.04:875][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.814 ms (total: 4.63 sec)
+[2026.02.20-19.58.04:914][442]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.58.04:914][442]LogContentValidation: Enabled validators:
+[2026.02.20-19.58.04:914][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.58.04:914][442]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.58.04:914][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.58.04:914][442]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.58.04:914][442]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.58.04:914][442]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.58.04:915][442]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.20-19.58.21:384][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.20-19.58.21:979][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.58.22:045][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.20-19.58.22:064][400]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.20-19.58.22:064][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.20-19.58.22:091][400]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.20-19.58.22:092][400]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_ThirdPersonCharacter5F3C6D3849B64EDCAA6714AC3324A884.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.20-19.58.22:099][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.955 ms (total: 4.75 sec)
+[2026.02.20-19.58.22:137][400]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.58.22:137][400]LogContentValidation: Enabled validators:
+[2026.02.20-19.58.22:137][400]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.58.22:137][400]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.58.22:137][400]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.58.22:137][400]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.58.22:137][400]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.58.22:137][400]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.58.22:137][400]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.20-19.58.29:184][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.02.20-19.58.29:873][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.58.29:961][828]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_RobotHud] ([2] browsable assets)...
+[2026.02.20-19.58.29:963][828]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_RobotHud.WB_RobotHud]
+[2026.02.20-19.58.29:963][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_RobotHud]
+[2026.02.20-19.58.29:963][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_RobotHud" FILE="../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/UI/WB_RobotHud.uasset" SILENT=true
+[2026.02.20-19.58.29:976][828]LogSavePackage: Moving output files for package: /Game/UI/WB_RobotHud
+[2026.02.20-19.58.29:976][828]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/WB_RobotHud351D89944A07570C5088318D6549AFF2.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/UI/WB_RobotHud.uasset'
+[2026.02.20-19.58.29:982][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.426 ms (total: 4.86 sec)
+[2026.02.20-19.58.30:012][828]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.58.30:012][828]LogContentValidation: Enabled validators:
+[2026.02.20-19.58.30:012][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.58.30:012][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.58.30:012][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.58.30:012][828]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.58.30:012][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.58.30:012][828]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.58.30:012][828]AssetCheck: /Game/UI/WB_RobotHud Validating asset
+[2026.02.20-19.58.32:512][958]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-19.58.32:517][958]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-19.58.32:517][958]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-19.58.32:517][958]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 439 us (total: 15.840 ms)
+[2026.02.20-19.58.32:517][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-19.58.32:517][958]BlueprintLog: Warning: Blueprint failed to compile:  BP_HealthPickup
+[2026.02.20-19.58.34:457][958]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.02.20-19.58.41:674][155]LogSlate: Window 'Message Log' being destroyed
+[2026.02.20-19.58.41:778][155]LogSlate: Window 'Message Log' being destroyed
+[2026.02.20-19.58.48:378][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.02.20-19.58.48:990][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-19.58.49:058][527]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-19.58.49:077][527]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-19.58.49:077][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-19.58.49:083][527]LogSavePackage: Moving output files for package: /Game/Collectibles/BP_HealthPickup
+[2026.02.20-19.58.49:083][527]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickup0E0DF4F34EC8F75F643FF89F04292A81.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Collectibles/BP_HealthPickup.uasset'
+[2026.02.20-19.58.49:088][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.343 ms (total: 4.96 sec)
+[2026.02.20-19.58.49:118][527]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-19.58.49:118][527]LogContentValidation: Enabled validators:
+[2026.02.20-19.58.49:118][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-19.58.49:118][527]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-19.58.49:118][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-19.58.49:118][527]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-19.58.49:118][527]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-19.58.49:118][527]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-19.58.49:118][527]AssetCheck: /Game/Collectibles/BP_HealthPickup Validating asset
+[2026.02.20-19.58.50:661][606]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-19.58.50:665][606]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-19.58.50:665][606]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-19.58.50:666][606]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 426 us (total: 16.267 ms)
+[2026.02.20-19.58.50:666][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-19.58.50:666][606]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.58.50:669][606]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.20-19.58.50:670][606]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 698 us (total: 21.398 ms)
+[2026.02.20-19.58.50:670][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004304s)
+[2026.02.20-19.58.50:670][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004324s)
+[2026.02.20-19.58.50:687][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.02.20-19.58.50:691][606]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.20-19.58.50:692][606]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.20-19.58.50:692][606]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.20-19.58.50:692][606]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.20-19.58.50:692][606]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.20-19.58.50:693][606]LogWorldPartition: Display: WorldPartition initialize took 943 us (total: 117.607 ms)
+[2026.02.20-19.58.50:693][606]LogPlayLevel: PIE: World Init took: (0.002187s)
+[2026.02.20-19.58.50:694][606]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2026.02.20-19.58.50:694][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-19.58.50:694][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-19.58.50:694][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-19.58.50:694][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-19.58.50:694][606]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-19.58.50:694][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-19.58.50:694][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-19.58.50:694][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-19.58.50:694][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-19.58.50:694][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-19.58.50:694][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-19.58.50:696][606]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-19.58.50:715][606]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 700X Gen 3)
+[2026.02.20-19.58.50:715][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-19.58.50:715][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-19.58.50:715][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-19.58.50:715][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2026.02.20-19.58.50:715][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2026.02.20-19.58.50:718][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2026.02.20-19.58.50:718][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2026.02.20-19.58.50:718][606]LogInit: FAudioDevice initialized with ID 31.
+[2026.02.20-19.58.50:718][606]LogAudio: Display: Audio Device (ID: 31) registered with world 'Lvl_ThirdPerson'.
+[2026.02.20-19.58.50:718][606]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2026.02.20-19.58.50:721][606]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.20-19.58.50:723][606]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.20-19.58.50
+[2026.02.20-19.58.50:723][606]LogWorld: Bringing up level for play took: 0.001139
+[2026.02.20-19.58.50:724][606]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2026.02.20-19.58.50:728][606]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.02.20-19.58.50:728][606]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.20-19.58.50:728][606]PIE: Server logged in
+[2026.02.20-19.58.50:729][606]PIE: Play in editor total start time 0.064 seconds.
+[2026.02.20-19.58.53:894][780]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 900
+[2026.02.20-19.58.57:595][  2]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1000
+[2026.02.20-19.58.59:067][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.58.59:067][ 88]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-19.58.59:067][ 88]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-19.58.59:068][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.58.59:068][ 88]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.20-19.58.59:069][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-19.58.59:073][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-19.58.59:088][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-19.58.59:088][ 88]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2026.02.20-19.58.59:088][ 88]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2026.02.20-19.58.59:090][ 88]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2026.02.20-19.58.59:095][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.02.20-19.58.59:143][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2026.02.20-20.03.08:100][ 54]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15758.217773
+[2026.02.20-20.03.08:339][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-20.03.08:339][ 61]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15758.422852, Update Interval: 323.670776
+[2026.02.20-20.09.25:940][641]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16135.760742
+[2026.02.20-20.09.26:141][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-20.09.26:141][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16135.943359, Update Interval: 301.411774
+[2026.02.20-20.12.28:359][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.20-20.12.28:362][ 31]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.022
+[2026.02.20-20.12.28:362][ 31]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-20.12.28:381][ 31]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-20.12.28:381][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-20.12.28:388][ 31]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Collectibles/BP_HealthPickup_Auto1
+[2026.02.20-20.12.28:388][ 31]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickup_Auto16EE8E4D54BD8DCF68E033FB4838D2A11.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/Collectibles/BP_HealthPickup_Auto1.uasset'
+[2026.02.20-20.12.28:388][ 31]LogFileHelpers: Auto-saving content packages took 0.027
+[2026.02.20-20.12.53:114][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.02.20-20.12.54:517][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-20.12.54:597][252]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-20.12.54:616][252]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-20.12.54:616][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-20.12.54:622][252]LogSavePackage: Moving output files for package: /Game/Collectibles/BP_HealthPickup
+[2026.02.20-20.12.54:622][252]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickupB71DC95A4999A787CD7BA6BC2DF0FCFF.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Collectibles/BP_HealthPickup.uasset'
+[2026.02.20-20.12.54:628][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.415 ms (total: 5.07 sec)
+[2026.02.20-20.12.54:677][252]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-20.12.54:677][252]LogContentValidation: Enabled validators:
+[2026.02.20-20.12.54:677][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-20.12.54:677][252]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-20.12.54:677][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-20.12.54:677][252]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-20.12.54:677][252]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-20.12.54:677][252]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-20.12.54:677][252]AssetCheck: /Game/Collectibles/BP_HealthPickup Validating asset
+[2026.02.20-20.12.56:723][375]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-20.12.56:728][375]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-20.12.56:728][375]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-20.12.56:728][375]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 448 us (total: 16.716 ms)
+[2026.02.20-20.12.56:728][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-20.12.56:778][375]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-20.12.56:781][375]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.20-20.12.56:782][375]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 705 us (total: 22.104 ms)
+[2026.02.20-20.12.56:782][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004381s)
+[2026.02.20-20.12.56:782][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004417s)
+[2026.02.20-20.12.56:797][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.02.20-20.12.56:800][375]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.20-20.12.56:803][375]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.20-20.12.56:803][375]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.20-20.12.56:803][375]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.20-20.12.56:803][375]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.20-20.12.56:804][375]LogWorldPartition: Display: WorldPartition initialize took 909 us (total: 118.517 ms)
+[2026.02.20-20.12.56:804][375]LogPlayLevel: PIE: World Init took: (0.002143s)
+[2026.02.20-20.12.56:804][375]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2026.02.20-20.12.56:804][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-20.12.56:804][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-20.12.56:804][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-20.12.56:804][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-20.12.56:804][375]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-20.12.56:804][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-20.12.56:804][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-20.12.56:804][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-20.12.56:804][375]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-20.12.56:804][375]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-20.12.56:804][375]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-20.12.56:806][375]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-20.12.56:826][375]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 700X Gen 3)
+[2026.02.20-20.12.56:826][375]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-20.12.56:826][375]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-20.12.56:826][375]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-20.12.56:826][375]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2026.02.20-20.12.56:826][375]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2026.02.20-20.12.56:828][375]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2026.02.20-20.12.56:828][375]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2026.02.20-20.12.56:828][375]LogInit: FAudioDevice initialized with ID 32.
+[2026.02.20-20.12.56:828][375]LogAudio: Display: Audio Device (ID: 32) registered with world 'Lvl_ThirdPerson'.
+[2026.02.20-20.12.56:828][375]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2026.02.20-20.12.56:831][375]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.20-20.12.56:833][375]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.20-20.12.56
+[2026.02.20-20.12.56:833][375]LogWorld: Bringing up level for play took: 0.001170
+[2026.02.20-20.12.56:834][375]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2026.02.20-20.12.56:837][375]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.02.20-20.12.56:837][375]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.20-20.12.56:837][375]PIE: Server logged in
+[2026.02.20-20.12.56:838][375]PIE: Play in editor total start time 0.11 seconds.
+[2026.02.20-20.13.00:558][595]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 900
+[2026.02.20-20.13.03:909][796]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1000
+[2026.02.20-20.13.09:188][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-20.13.09:188][111]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-20.13.09:188][111]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-20.13.09:188][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-20.13.09:188][111]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.20-20.13.09:191][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-20.13.09:195][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-20.13.09:210][111]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-20.13.09:211][111]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2026.02.20-20.13.09:211][111]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=4
+[2026.02.20-20.13.09:212][111]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=2
+[2026.02.20-20.13.09:215][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-20.13.09:217][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.02.20-20.13.09:265][112]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2026.02.20-20.13.20:066][689]LogEditorTransaction: Undo Break Pin Link
+[2026.02.20-20.13.20:258][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-20.13.20:259][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-20.14.23:624][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.02.20-20.14.24:252][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-20.14.24:282][ 68]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-20.14.24:302][ 68]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-20.14.24:302][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-20.14.24:308][ 68]LogSavePackage: Moving output files for package: /Game/Collectibles/BP_HealthPickup
+[2026.02.20-20.14.24:308][ 68]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickup4AB08DC94344B452B105F294DB8D1BDC.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Collectibles/BP_HealthPickup.uasset'
+[2026.02.20-20.14.24:313][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.482 ms (total: 5.13 sec)
+[2026.02.20-20.14.24:361][ 68]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-20.14.24:361][ 68]LogContentValidation: Enabled validators:
+[2026.02.20-20.14.24:361][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-20.14.24:361][ 68]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-20.14.24:361][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-20.14.24:361][ 68]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-20.14.24:361][ 68]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-20.14.24:361][ 68]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-20.14.24:361][ 68]AssetCheck: /Game/Collectibles/BP_HealthPickup Validating asset
+[2026.02.20-20.15.09:410][750]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16479.562500
+[2026.02.20-20.15.09:610][762]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-20.15.09:610][762]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16479.748047, Update Interval: 337.003082
+[2026.02.20-20.15.45:863][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.02.20-20.15.46:740][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-20.15.46:802][686]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-20.15.46:821][686]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-20.15.46:821][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-20.15.46:827][686]LogSavePackage: Moving output files for package: /Game/Collectibles/BP_HealthPickup
+[2026.02.20-20.15.46:827][686]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickup46EF3D2D48CBE29719E591871DA2F96D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Collectibles/BP_HealthPickup.uasset'
+[2026.02.20-20.15.46:832][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.291 ms (total: 5.23 sec)
+[2026.02.20-20.15.46:866][686]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-20.15.46:866][686]LogContentValidation: Enabled validators:
+[2026.02.20-20.15.46:866][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-20.15.46:866][686]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-20.15.46:866][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-20.15.46:866][686]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-20.15.46:866][686]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-20.15.46:866][686]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-20.15.46:866][686]AssetCheck: /Game/Collectibles/BP_HealthPickup Validating asset
+[2026.02.20-20.15.48:366][760]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-20.15.48:370][760]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-20.15.48:370][760]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-20.15.48:371][760]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 450 us (total: 17.166 ms)
+[2026.02.20-20.15.48:371][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-20.15.48:371][760]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-20.15.48:375][760]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.20-20.15.48:375][760]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 708 us (total: 22.812 ms)
+[2026.02.20-20.15.48:375][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004291s)
+[2026.02.20-20.15.48:375][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004311s)
+[2026.02.20-20.15.48:393][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.20-20.15.48:397][760]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.20-20.15.48:398][760]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.20-20.15.48:398][760]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.20-20.15.48:398][760]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.20-20.15.48:398][760]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.20-20.15.48:399][760]LogWorldPartition: Display: WorldPartition initialize took 940 us (total: 119.457 ms)
+[2026.02.20-20.15.48:399][760]LogPlayLevel: PIE: World Init took: (0.002157s)
+[2026.02.20-20.15.48:399][760]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2026.02.20-20.15.48:399][760]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-20.15.48:399][760]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-20.15.48:399][760]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-20.15.48:399][760]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-20.15.48:399][760]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-20.15.48:399][760]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-20.15.48:399][760]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-20.15.48:399][760]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-20.15.48:399][760]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-20.15.48:399][760]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-20.15.48:399][760]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-20.15.48:402][760]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-20.15.48:420][760]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 700X Gen 3)
+[2026.02.20-20.15.48:420][760]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-20.15.48:420][760]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-20.15.48:420][760]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-20.15.48:421][760]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2026.02.20-20.15.48:421][760]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2026.02.20-20.15.48:422][760]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2026.02.20-20.15.48:422][760]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2026.02.20-20.15.48:422][760]LogInit: FAudioDevice initialized with ID 33.
+[2026.02.20-20.15.48:422][760]LogAudio: Display: Audio Device (ID: 33) registered with world 'Lvl_ThirdPerson'.
+[2026.02.20-20.15.48:422][760]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2026.02.20-20.15.48:426][760]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.20-20.15.48:427][760]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.20-20.15.48
+[2026.02.20-20.15.48:427][760]LogWorld: Bringing up level for play took: 0.001142
+[2026.02.20-20.15.48:428][760]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2026.02.20-20.15.48:431][760]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.02.20-20.15.48:431][760]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.20-20.15.48:432][760]PIE: Server logged in
+[2026.02.20-20.15.48:433][760]PIE: Play in editor total start time 0.062 seconds.
+[2026.02.20-20.15.50:635][890]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 900
+[2026.02.20-20.16.00:090][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-20.16.00:091][456]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-20.16.00:091][456]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-20.16.00:091][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-20.16.00:091][456]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.20-20.16.00:101][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-20.16.00:105][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-20.16.00:121][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-20.16.00:121][456]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2026.02.20-20.16.00:121][456]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=4
+[2026.02.20-20.16.00:122][456]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=2
+[2026.02.20-20.16.00:127][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.02.20-20.16.00:177][457]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2026.02.20-20.17.16:606][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.20-20.17.17:882][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-20.17.17:959][895]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-20.17.17:983][895]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-20.17.17:983][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-20.17.17:989][895]LogSavePackage: Moving output files for package: /Game/Collectibles/BP_HealthPickup
+[2026.02.20-20.17.17:989][895]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickup0BEA3B224A576DF138D453AD55239D35.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Collectibles/BP_HealthPickup.uasset'
+[2026.02.20-20.17.17:995][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.260 ms (total: 5.34 sec)
+[2026.02.20-20.17.18:025][895]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-20.17.18:025][895]LogContentValidation: Enabled validators:
+[2026.02.20-20.17.18:025][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-20.17.18:025][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-20.17.18:025][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-20.17.18:025][895]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-20.17.18:025][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-20.17.18:025][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-20.17.18:025][895]AssetCheck: /Game/Collectibles/BP_HealthPickup Validating asset
+[2026.02.20-20.17.19:515][973]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-20.17.19:520][973]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.20-20.17.19:520][973]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.02.20-20.17.19:521][973]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 435 us (total: 17.602 ms)
+[2026.02.20-20.17.19:521][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-20.17.19:541][973]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-20.17.19:544][973]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.20-20.17.19:545][973]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 709 us (total: 23.521 ms)
+[2026.02.20-20.17.19:545][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004229s)
+[2026.02.20-20.17.19:545][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.004258s)
+[2026.02.20-20.17.19:562][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.02.20-20.17.19:566][973]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.02.20-20.17.19:567][973]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.20-20.17.19:567][973]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.20-20.17.19:567][973]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.20-20.17.19:567][973]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.20-20.17.19:568][973]LogWorldPartition: Display: WorldPartition initialize took 914 us (total: 120.371 ms)
+[2026.02.20-20.17.19:568][973]LogPlayLevel: PIE: World Init took: (0.002084s)
+[2026.02.20-20.17.19:569][973]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2026.02.20-20.17.19:569][973]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-20.17.19:569][973]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-20.17.19:569][973]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-20.17.19:569][973]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-20.17.19:569][973]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-20.17.19:569][973]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-20.17.19:569][973]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-20.17.19:569][973]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-20.17.19:569][973]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-20.17.19:569][973]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-20.17.19:569][973]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-20.17.19:571][973]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-20.17.19:588][973]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 700X Gen 3)
+[2026.02.20-20.17.19:588][973]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-20.17.19:588][973]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-20.17.19:588][973]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-20.17.19:588][973]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2026.02.20-20.17.19:588][973]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2026.02.20-20.17.19:589][973]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2026.02.20-20.17.19:591][973]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2026.02.20-20.17.19:591][973]LogInit: FAudioDevice initialized with ID 34.
+[2026.02.20-20.17.19:591][973]LogAudio: Display: Audio Device (ID: 34) registered with world 'Lvl_ThirdPerson'.
+[2026.02.20-20.17.19:591][973]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2026.02.20-20.17.19:594][973]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.20-20.17.19:595][973]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.02.20-20.17.19
+[2026.02.20-20.17.19:595][973]LogWorld: Bringing up level for play took: 0.001168
+[2026.02.20-20.17.19:596][973]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2026.02.20-20.17.19:600][973]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.02.20-20.17.19:600][973]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.20-20.17.19:600][973]PIE: Server logged in
+[2026.02.20-20.17.19:601][973]PIE: Play in editor total start time 0.081 seconds.
+[2026.02.20-20.17.23:023][181]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 900
+[2026.02.20-20.17.28:822][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-20.17.28:822][527]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.02.20-20.17.28:822][527]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-20.17.28:823][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-20.17.28:823][527]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.02.20-20.17.28:824][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-20.17.28:827][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-20.17.28:843][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-20.17.28:843][527]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2026.02.20-20.17.28:843][527]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=4
+[2026.02.20-20.17.28:844][527]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=2
+[2026.02.20-20.17.28:849][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.20-20.17.28:899][528]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2026.02.20-20.17.32:303][729]Cmd: TRANSACTION UNDO
+[2026.02.20-20.17.32:307][729]LogEditorTransaction: Undo Delete current selection
+[2026.02.20-20.17.32:542][729]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-20.17.32:543][729]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.20-20.21.26:105][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16858.646484
+[2026.02.20-20.21.26:304][833]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-20.21.26:304][833]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16858.833984, Update Interval: 356.920074
+[2026.02.20-20.23.02:028][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.20-20.23.02:032][288]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.022
+[2026.02.20-20.23.02:032][288]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-20.23.02:051][288]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-20.23.02:051][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-20.23.02:058][288]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Collectibles/BP_HealthPickup_Auto2
+[2026.02.20-20.23.02:058][288]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickup_Auto2DB45ABB4448E160653DE7A927258A6FA.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/Collectibles/BP_HealthPickup_Auto2.uasset'
+[2026.02.20-20.23.02:058][288]LogFileHelpers: Auto-saving content packages took 0.026
+[2026.02.20-20.27.59:182][ 46]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17255.722656
+[2026.02.20-20.27.59:357][ 67]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-20.27.59:357][ 67]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17255.882812, Update Interval: 331.275360
+[2026.02.20-20.29.57:571][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.20-20.29.58:823][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-20.29.58:900][489]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-20.29.58:920][489]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-20.29.58:920][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-20.29.58:926][489]LogSavePackage: Moving output files for package: /Game/Collectibles/BP_HealthPickup
+[2026.02.20-20.29.58:926][489]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickupE92A24F447FF2D2BDF10078D27FF87C0.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Collectibles/BP_HealthPickup.uasset'
+[2026.02.20-20.29.58:932][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.622 ms (total: 5.45 sec)
+[2026.02.20-20.29.58:980][489]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-20.29.58:980][489]LogContentValidation: Enabled validators:
+[2026.02.20-20.29.58:980][489]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-20.29.58:980][489]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-20.29.58:980][489]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-20.29.58:980][489]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-20.29.58:980][489]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-20.29.58:980][489]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-20.29.58:980][489]AssetCheck: /Game/Collectibles/BP_HealthPickup Validating asset
+[2026.02.20-20.30.52:573][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.02.20-20.30.53:261][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-20.30.53:331][119]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-20.30.53:351][119]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-20.30.53:351][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-20.30.53:356][119]LogSavePackage: Moving output files for package: /Game/Collectibles/BP_HealthPickup
+[2026.02.20-20.30.53:357][119]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickup2F66B1914A6394CD61EA98978A81A756.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Collectibles/BP_HealthPickup.uasset'
+[2026.02.20-20.30.53:363][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.919 ms (total: 5.55 sec)
+[2026.02.20-20.30.53:411][119]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-20.30.53:411][119]LogContentValidation: Enabled validators:
+[2026.02.20-20.30.53:411][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-20.30.53:411][119]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-20.30.53:411][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-20.30.53:411][119]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-20.30.53:411][119]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-20.30.53:411][119]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-20.30.53:411][119]AssetCheck: /Game/Collectibles/BP_HealthPickup Validating asset
+[2026.02.20-20.31.12:689][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.02.20-20.31.13:980][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-20.31.14:056][761]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectibles/BP_HealthPickup] ([2] browsable assets)...
+[2026.02.20-20.31.14:075][761]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectibles/BP_HealthPickup.BP_HealthPickup]
+[2026.02.20-20.31.14:075][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectibles/BP_HealthPickup]
+[2026.02.20-20.31.14:081][761]LogSavePackage: Moving output files for package: /Game/Collectibles/BP_HealthPickup
+[2026.02.20-20.31.14:081][761]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BP_HealthPickupD620903E4F8B685378D4FB8BE9563729.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Collectibles/BP_HealthPickup.uasset'
+[2026.02.20-20.31.14:087][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.036 ms (total: 5.66 sec)
+[2026.02.20-20.31.14:125][761]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-20.31.14:125][761]LogContentValidation: Enabled validators:
+[2026.02.20-20.31.14:125][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-20.31.14:125][761]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-20.31.14:125][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-20.31.14:125][761]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-20.31.14:125][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-20.31.14:125][761]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-20.31.14:125][761]AssetCheck: /Game/Collectibles/BP_HealthPickup Validating asset
