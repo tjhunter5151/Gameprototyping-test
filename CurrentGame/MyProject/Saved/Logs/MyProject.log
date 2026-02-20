@@ -4646,3 +4646,4 @@ Make sure 'WB_RobotHud_C' has been compiled for  Update Lives
 [2026.02.20-20.31.14:125][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.20-20.31.14:125][761]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.20-20.31.14:125][761]AssetCheck: /Game/Collectibles/BP_HealthPickup Validating asset
+[2026.02.20-20.31.44:896][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
