@@ -2972,3 +2972,302 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.22-13.25.55:667][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2026.02.22-13.25.55:716][922]LogPlayLevel: Display: Destroying online subsystem :Context_40
 [2026.02.22-13.26.02:732][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.02.22-13.28.03:845][574]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8108.325195
+[2026.02.22-13.28.04:845][577]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-13.28.04:845][577]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8108.991699, Update Interval: 356.877960
+[2026.02.22-13.34.51:899][798]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8516.354492
+[2026.02.22-13.34.52:899][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-13.34.52:899][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8517.021484, Update Interval: 307.785889
+[2026.02.22-13.40.33:620][823]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8858.048828
+[2026.02.22-13.40.34:621][826]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-13.40.34:621][826]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8858.715820, Update Interval: 310.408020
+[2026.02.22-13.46.17:331][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9201.737305
+[2026.02.22-13.46.18:332][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-13.46.18:332][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9202.405273, Update Interval: 347.911011
+[2026.02.22-13.52.44:042][ 14]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9588.436523
+[2026.02.22-13.52.45:043][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-13.52.45:043][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9589.102539, Update Interval: 336.475708
+[2026.02.22-13.59.03:742][153]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9968.103516
+[2026.02.22-13.59.04:743][156]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-13.59.04:743][156]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9968.770508, Update Interval: 325.604431
+[2026.02.22-14.05.14:124][264]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10338.465820
+[2026.02.22-14.05.15:124][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-14.05.15:124][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10339.131836, Update Interval: 330.773651
+[2026.02.22-14.11.33:841][403]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10718.130859
+[2026.02.22-14.11.34:842][406]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-14.11.34:842][406]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10718.797852, Update Interval: 355.905640
+[2026.02.22-14.14.48:182][986]LogDerivedDataCache: C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.22-14.18.07:553][584]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11111.775391
+[2026.02.22-14.18.08:552][587]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-14.18.08:553][587]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11112.441406, Update Interval: 312.929474
+[2026.02.22-14.20.27:568][  4]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-14.20.27:574][  4]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.22-14.20.27:574][  4]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.22-14.20.27:574][  4]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 582 us (total: 28.569 ms)
+[2026.02.22-14.20.27:574][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.22-14.20.27:574][  4]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_L_LevelOne
+[2026.02.22-14.20.27:579][  4]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.22-14.20.27:579][  4]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 875 us (total: 13.453 ms)
+[2026.02.22-14.20.27:579][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005346s)
+[2026.02.22-14.20.27:579][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/L_LevelOne.L_LevelOne to /Game/levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.005373s)
+[2026.02.22-14.20.27:600][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.22-14.20.27:601][  4]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.22-14.20.27:602][  4]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.22-14.20.27:602][  4]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.22-14.20.27:602][  4]LogWorldPartition: UWorldPartition::Initialize : World = /Game/levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.22-14.20.27:602][  4]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.22-14.20.27:604][  4]LogWorldPartition: Display: WorldPartition initialize took 1.108 ms (total: 190.784 ms)
+[2026.02.22-14.20.27:604][  4]LogPlayLevel: PIE: World Init took: (0.002490s)
+[2026.02.22-14.20.27:605][  4]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.02.22-14.20.27:605][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-14.20.27:605][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-14.20.27:605][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-14.20.27:605][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-14.20.27:605][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-14.20.27:605][  4]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-14.20.27:605][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-14.20.27:605][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-14.20.27:605][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-14.20.27:605][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-14.20.27:605][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-14.20.27:606][  4]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-14.20.27:629][  4]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Stealth 700X Gen 3)
+[2026.02.22-14.20.27:629][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-14.20.27:629][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-14.20.27:629][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-14.20.27:629][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.02.22-14.20.27:629][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.02.22-14.20.27:631][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.02.22-14.20.27:631][  4]LogInit: FAudioDevice initialized with ID 19.
+[2026.02.22-14.20.27:631][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.02.22-14.20.27:631][  4]LogAudio: Display: Audio Device (ID: 19) registered with world 'L_LevelOne'.
+[2026.02.22-14.20.27:631][  4]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.02.22-14.20.27:634][  4]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.22-14.20.27:636][  4]LogWorld: Bringing World /Game/levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.22-14.20.27
+[2026.02.22-14.20.27:636][  4]LogWorld: Bringing up level for play took: 0.001373
+[2026.02.22-14.20.27:637][  4]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2026.02.22-14.20.27:641][  4]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.02.22-14.20.27:641][  4]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.22-14.20.27:642][  4]PIE: Server logged in
+[2026.02.22-14.20.27:643][  4]PIE: Play in editor total start time 0.069 seconds.
+[2026.02.22-14.20.33:685][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-14.20.33:685][411]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_L_LevelOne
+[2026.02.22-14.20.33:685][411]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-14.20.33:686][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-14.20.33:686][411]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.22-14.20.33:688][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-14.20.33:692][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-14.20.33:707][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-14.20.33:707][411]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.02.22-14.20.33:707][411]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.02.22-14.20.33:709][411]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.02.22-14.20.33:714][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.02.22-14.20.33:762][414]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2026.02.22-14.24.15:167][179]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11479.363281
+[2026.02.22-14.24.16:166][182]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-14.24.16:166][182]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11480.030273, Update Interval: 309.485168
+[2026.02.22-14.30.07:879][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11832.022461
+[2026.02.22-14.30.08:880][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-14.30.08:880][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11832.689453, Update Interval: 351.384613
+[2026.02.22-14.36.59:599][472]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12243.677734
+[2026.02.22-14.37.00:599][475]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-14.37.00:599][475]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12244.344727, Update Interval: 314.579315
+[2026.02.22-14.38.18:188][708]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=4 - VG270 (2- AMD High Definition Audio Device), InstanceID=1
+[2026.02.22-14.38.18:188][708]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{780e6897-7efe-4c5a-b562-1e356b6f2d88}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.22-14.38.18:272][708]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{780e6897-7efe-4c5a-b562-1e356b6f2d88}]
+[2026.02.22-14.38.18:272][708]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.22-14.38.18:272][708]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.22-14.38.18:606][709]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{780e6897-7efe-4c5a-b562-1e356b6f2d88}, Name=4 - VG270 (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=11.16
+[2026.02.22-14.38.18:606][709]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.22-14.38.18:606][709]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.22-14.38.18:608][709]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.22-14.38.18:620][710]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Stealth 700X Gen 3), InstanceID=1
+[2026.02.22-14.38.18:620][710]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{92c7fbb0-4815-4d40-a604-6abf062107b9}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.02.22-14.38.18:939][710]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{92c7fbb0-4815-4d40-a604-6abf062107b9}]
+[2026.02.22-14.38.18:939][710]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.22-14.38.18:939][710]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.02.22-14.38.19:275][711]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{92c7fbb0-4815-4d40-a604-6abf062107b9}, Name=Speakers (Stealth 700X Gen 3)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.01
+[2026.02.22-14.38.19:275][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.22-14.38.19:275][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.22-14.38.19:276][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.22-14.40.22:909][560]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.22-14.40.26:798][658]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.02.22-14.40.26:798][658]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.02.22-14.40.26:800][658]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/levels/L_LevelOne.L_LevelOne:PersistentLevel.NavMeshBoundsVolume_UAID_BCFCE7D914DB87C102_1620998071
+[2026.02.22-14.40.26:801][658]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/levels/L_LevelOne.L_LevelOne:PersistentLevel.NavMeshBoundsVolume_UAID_BCFCE7D914DB87C102_1620998071
+[2026.02.22-14.40.42:775][613]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.22-14.40.50:406][ 71]Cmd: TRANSACTION UNDO
+[2026.02.22-14.40.50:406][ 71]LogEditorTransaction: Undo Move Elements
+[2026.02.22-14.40.50:665][ 71]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.22-14.40.50:666][ 71]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.22-14.41.05:243][835]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.22-14.41.39:417][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.02.22-14.41.39:423][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/L_LevelOne/D/HP/2IACYRWX3HO2TN8WBCIKKA_Auto7
+[2026.02.22-14.41.39:423][587]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/2IACYRWX3HO2TN8WBCIKKA_Auto786D01816463C3612E82E9F84E76EB63D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/L_LevelOne/D/HP/2IACYRWX3HO2TN8WBCIKKA_Auto7.uasset'
+[2026.02.22-14.41.39:425][587]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/L_LevelOne/B/WY/BX5DCPEGXP7PSKZOLPJC43_Auto7
+[2026.02.22-14.41.39:425][587]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BX5DCPEGXP7PSKZOLPJC43_Auto710106ECB476E356A6465E8A38822C6C3.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/L_LevelOne/B/WY/BX5DCPEGXP7PSKZOLPJC43_Auto7.uasset'
+[2026.02.22-14.41.39:425][587]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/L_LevelOne' took 0.032
+[2026.02.22-14.41.39:425][587]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2026.02.22-14.42.05:054][936]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.22-14.42.22:554][986]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.02.22-14.42.27:487][282]Cmd: TRANSACTION UNDO
+[2026.02.22-14.42.27:487][282]LogEditorTransaction: Undo Move Elements
+[2026.02.22-14.42.27:746][282]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.22-14.42.27:747][282]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.22-14.42.27:981][287]Cmd: TRANSACTION UNDO
+[2026.02.22-14.42.27:981][287]LogEditorTransaction: Undo Move Elements
+[2026.02.22-14.42.28:202][287]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.22-14.42.28:204][287]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.22-14.42.45:282][213]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12589.369141
+[2026.02.22-14.42.45:451][222]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-14.42.45:451][222]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12589.530273, Update Interval: 317.944885
+[2026.02.22-14.43.00:269][111]LogShaderCompilers: Display: ================================================
+[2026.02.22-14.43.00:269][111]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.22-14.43.00:269][111]LogShaderCompilers: Display: Total job queries 422, among them cache hits 25 (5.92%), DDC hits 325 (77.01%), Duplicates 71 (16.82%)
+[2026.02.22-14.43.00:269][111]LogShaderCompilers: Display: Tracking 326 distinct input hashes that result in 236 distinct outputs (72.39%)
+[2026.02.22-14.43.00:269][111]LogShaderCompilers: Display: RAM used: 3.29 MiB of 1.60 GiB budget. Usage: 0.20%
+[2026.02.22-14.43.00:269][111]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.22-14.43.00:269][111]LogShaderCompilers: Display: Shaders Compiled: 1
+[2026.02.22-14.43.00:269][111]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2026.02.22-14.43.00:269][111]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.09 s
+[2026.02.22-14.43.00:269][111]LogShaderCompilers: Display: Job execution time: average 0.62 s, max 0.62 s
+[2026.02.22-14.43.00:269][111]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 0.71
+[2026.02.22-14.43.00:269][111]LogShaderCompilers: Display: Shader code size: total 7.414 KiB, numShaders 1, average 7.414 KiB, min 7.414 KiB, max 7.414 KiB
+[2026.02.22-14.43.00:269][111]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.71 s
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Average processing rate: 1.40 jobs/sec
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Total thread time: 0.243 s
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Total thread preprocess time: 3.611 s
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Percentage time preprocessing: 1487.38%
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Effective parallelization: 0.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.042617
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: === Material stats ===
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Materials Translated:    144
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Material Translation Only: 0.03 s (35%)
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: Material Cache Hits: 19 (13%)
+[2026.02.22-14.43.00:270][111]LogShaderCompilers: Display: ================================================
+[2026.02.22-14.43.53:560][ 57]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.02.22-14.44.06:612][563]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.02.22-14.44.06:625][563]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.02.22-14.44.06:631][563]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.02.22-14.44.06:643][564]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.02.22-14.44.14:680][136]LogContentBrowser: Attempting asset rename: NewBlueprint -> EnemyCube
+[2026.02.22-14.44.14:686][136]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.02.22-14.44.23:858][681]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/EnemyCube.EnemyCube
+[2026.02.22-14.44.23:858][681]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.02.22-14.48.24:851][356]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.02.22-14.48.51:992][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12955.943359
+[2026.02.22-14.48.52:255][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-14.48.52:255][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12956.153320, Update Interval: 356.103394
+[2026.02.22-14.52.08:478][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.22-14.52.08:483][255]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/L_LevelOne/D/HP/2IACYRWX3HO2TN8WBCIKKA_Auto8
+[2026.02.22-14.52.08:483][255]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/2IACYRWX3HO2TN8WBCIKKA_Auto88288325E4BDD471E5F15068015E35F38.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/L_LevelOne/D/HP/2IACYRWX3HO2TN8WBCIKKA_Auto8.uasset'
+[2026.02.22-14.52.08:485][255]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/L_LevelOne/B/WY/BX5DCPEGXP7PSKZOLPJC43_Auto8
+[2026.02.22-14.52.08:485][255]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BX5DCPEGXP7PSKZOLPJC43_Auto81CF6C4F04535D76A7C8A68B295CF4E59.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/L_LevelOne/B/WY/BX5DCPEGXP7PSKZOLPJC43_Auto8.uasset'
+[2026.02.22-14.52.08:486][255]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/L_LevelOne' took 0.050
+[2026.02.22-14.52.08:486][255]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2026.02.22-14.52.08:486][255]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/EnemyCube] ([2] browsable assets)...
+[2026.02.22-14.52.08:510][255]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/EnemyCube.EnemyCube]
+[2026.02.22-14.52.08:510][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/EnemyCube]
+[2026.02.22-14.52.08:514][255]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/EnemyCube_Auto8
+[2026.02.22-14.52.08:514][255]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/EnemyCube_Auto8E219FD8B42BAC0A12064F4B165846121.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/Enemies/EnemyCube_Auto8.uasset'
+[2026.02.22-14.52.08:515][255]LogFileHelpers: Auto-saving content packages took 0.029
+[2026.02.22-14.55.28:753][737]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13352.560547
+[2026.02.22-14.55.29:755][740]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-14.55.29:755][740]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13353.228516, Update Interval: 318.704803
+[2026.02.22-14.58.20:431][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.22-14.58.21:033][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-14.58.21:173][235]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/EnemyCube] ([2] browsable assets)...
+[2026.02.22-14.58.21:184][235]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/EnemyCube.EnemyCube]
+[2026.02.22-14.58.21:184][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/EnemyCube]
+[2026.02.22-14.58.21:188][235]LogSavePackage: Moving output files for package: /Game/Enemies/EnemyCube
+[2026.02.22-14.58.21:188][235]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/EnemyCube66C639C04E9FCABFFC7697A9BE8B028D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Enemies/EnemyCube.uasset'
+[2026.02.22-14.58.21:196][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.091 ms (total: 2.29 sec)
+[2026.02.22-14.58.21:226][235]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-14.58.21:226][235]LogContentValidation: Enabled validators:
+[2026.02.22-14.58.21:226][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-14.58.21:226][235]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-14.58.21:226][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-14.58.21:226][235]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-14.58.21:226][235]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-14.58.21:226][235]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-14.58.21:226][235]AssetCheck: /Game/Enemies/EnemyCube Validating asset
+[2026.02.22-14.58.21:242][235]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.22-14.58.22:896][318]LogSlate: Window 'EnemyCube' being destroyed
+[2026.02.22-15.01.34:987][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13718.629883
+[2026.02.22-15.01.35:154][426]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-15.01.35:154][426]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13718.779297, Update Interval: 350.025940
+[2026.02.22-15.02.14:979][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.22-15.02.14:982][525]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/L_LevelOne' took 0.021
+[2026.02.22-15.02.14:982][525]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/EnemyCube] ([2] browsable assets)...
+[2026.02.22-15.02.15:001][525]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/EnemyCube.EnemyCube]
+[2026.02.22-15.02.15:001][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/EnemyCube]
+[2026.02.22-15.02.15:005][525]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/EnemyCube_Auto9
+[2026.02.22-15.02.15:005][525]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/EnemyCube_Auto99BEBF8214FC7D15E16053D88CAA6CD16.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/Enemies/EnemyCube_Auto9.uasset'
+[2026.02.22-15.02.15:006][525]LogFileHelpers: Auto-saving content packages took 0.024
+[2026.02.22-15.08.04:081][296]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14107.275391
+[2026.02.22-15.08.05:081][299]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-15.08.05:081][299]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14107.941406, Update Interval: 300.131836
+[2026.02.22-15.12.21:489][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.02.22-15.12.21:491][903]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/L_LevelOne' took 0.022
+[2026.02.22-15.12.21:491][903]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/EnemyCube] ([2] browsable assets)...
+[2026.02.22-15.12.21:511][903]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/EnemyCube.EnemyCube]
+[2026.02.22-15.12.21:511][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/EnemyCube]
+[2026.02.22-15.12.21:516][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/EnemyCube_Auto0
+[2026.02.22-15.12.21:516][903]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/EnemyCube_Auto05C45B4284FACFF763039FAB39F8CEDEE.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/Enemies/EnemyCube_Auto0.uasset'
+[2026.02.22-15.12.21:517][903]LogFileHelpers: Auto-saving content packages took 0.026
+[2026.02.22-15.13.53:516][880]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14456.588867
+[2026.02.22-15.13.53:839][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.22-15.13.53:840][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14456.908203, Update Interval: 319.016083
+[2026.02.22-15.14.21:797][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.02.22-15.14.22:675][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-15.14.22:746][731]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/EnemyCube] ([2] browsable assets)...
+[2026.02.22-15.14.22:764][731]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/EnemyCube.EnemyCube]
+[2026.02.22-15.14.22:764][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/EnemyCube]
+[2026.02.22-15.14.22:770][731]LogSavePackage: Moving output files for package: /Game/Enemies/EnemyCube
+[2026.02.22-15.14.22:770][731]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/EnemyCube02E847554B1B382100FEA9BEB938E613.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Enemies/EnemyCube.uasset'
+[2026.02.22-15.14.22:776][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.437 ms (total: 2.39 sec)
+[2026.02.22-15.14.22:826][731]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.22-15.14.22:826][731]LogContentValidation: Enabled validators:
+[2026.02.22-15.14.22:826][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-15.14.22:826][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-15.14.22:826][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-15.14.22:826][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-15.14.22:826][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-15.14.22:826][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-15.14.22:826][731]AssetCheck: /Game/Enemies/EnemyCube Validating asset
+[2026.02.22-15.14.25:174][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.02.22-15.14.26:537][837]LogSlate: Window 'Save Content' being destroyed
+[2026.02.22-15.14.26:545][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.22-15.14.26:607][837]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/L_LevelOne/D/HP/2IACYRWX3HO2TN8WBCIKKA
+[2026.02.22-15.14.26:607][837]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/2IACYRWX3HO2TN8WBCIKKAD90098EF4B993805A99CAC9674290B28.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/L_LevelOne/D/HP/2IACYRWX3HO2TN8WBCIKKA.uasset'
+[2026.02.22-15.14.26:611][837]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/L_LevelOne/B/WY/BX5DCPEGXP7PSKZOLPJC43
+[2026.02.22-15.14.26:611][837]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BX5DCPEGXP7PSKZOLPJC43BDFAD0A6423ABF55A6A816823F02ACE3.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/L_LevelOne/B/WY/BX5DCPEGXP7PSKZOLPJC43.uasset'
+[2026.02.22-15.14.26:625][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.732 ms (total: 2.47 sec)
+[2026.02.22-15.14.26:688][837]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.22-15.14.26:688][837]LogContentValidation: Enabled validators:
+[2026.02.22-15.14.26:688][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.22-15.14.26:688][837]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.22-15.14.26:688][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.22-15.14.26:688][837]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.22-15.14.26:688][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.22-15.14.26:688][837]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.22-15.14.26:689][837]AssetCheck: /Game/levels/L_LevelOne Validating asset
+[2026.02.22-15.14.26:707][837]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2026.02.22-15.14.26:716][837]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.22-15.14.27:805][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
