@@ -3603,3 +3603,47 @@ Script Stack (0 frames) :
 [2026.02.27-22.11.53:046][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.02.27-22.11.53:048][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2026.02.27-22.11.53:096][992]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.02.27-22.12.29:141][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.02.27-22.12.30:519][512]LogSlate: Window 'Save Content' being destroyed
+[2026.02.27-22.12.30:528][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.27-22.12.30:598][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run] ([1] browsable assets)...
+[2026.02.27-22.12.30:598][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run]
+[2026.02.27-22.12.30:609][512]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run
+[2026.02.27-22.12.30:610][512]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/BS_Idle_Walk_RunFB9717604816B3942318E0B72B92A687.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run.uasset'
+[2026.02.27-22.12.30:611][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd] ([1] browsable assets)...
+[2026.02.27-22.12.30:611][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd]
+[2026.02.27-22.12.30:643][512]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd
+[2026.02.27-22.12.30:644][512]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/MF_Unarmed_Jog_FwdFD1E80924A74FDE27615C89709D0044C.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd.uasset'
+[2026.02.27-22.12.30:646][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/WalkNewBlendSpace1D] ([1] browsable assets)...
+[2026.02.27-22.12.30:646][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/WalkNewBlendSpace1D]
+[2026.02.27-22.12.30:648][512]LogSavePackage: Moving output files for package: /Game/Animations/WalkNewBlendSpace1D
+[2026.02.27-22.12.30:649][512]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/WalkNewBlendSpace1DA3892C1D4504342288950C93DF9ED617.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/Animations/WalkNewBlendSpace1D.uasset'
+[2026.02.27-22.12.30:659][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.921 ms (total: 1.92 sec)
+[2026.02.27-22.12.30:707][512]LogContentValidation: Display: Starting to validate 3 assets
+[2026.02.27-22.12.30:707][512]LogContentValidation: Enabled validators:
+[2026.02.27-22.12.30:707][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.27-22.12.30:707][512]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.27-22.12.30:707][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.27-22.12.30:707][512]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.27-22.12.30:707][512]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.27-22.12.30:707][512]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.27-22.12.30:707][512]AssetCheck: /Game/Characters/Mannequins/Anims/Unarmed/BS_Idle_Walk_Run Validating asset
+[2026.02.27-22.12.30:707][512]AssetCheck: /Game/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd Validating asset
+[2026.02.27-22.12.30:707][512]AssetCheck: /Game/Animations/WalkNewBlendSpace1D Validating asset
+[2026.02.27-22.12.30:721][512]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.27-22.12.32:062][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.27-22.12.32:659][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.27-22.12.33:256][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.27-22.12.33:897][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.27-22.13.17:311][811]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8439.584961
+[2026.02.27-22.13.18:645][815]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.27-22.13.18:645][815]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8440.584961, Update Interval: 348.879669
+[2026.02.27-22.19.55:358][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8837.606445
+[2026.02.27-22.19.56:692][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.27-22.19.56:692][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8838.606445, Update Interval: 335.285492
+[2026.02.27-22.24.59:532][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.02.27-22.24.59:979][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.27-22.25.00:317][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.27-22.25.00:636][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.27-22.25.02:258][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.27-22.25.02:789][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
