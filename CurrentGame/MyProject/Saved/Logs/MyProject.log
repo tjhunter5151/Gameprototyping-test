@@ -4349,3 +4349,167 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.01-18.49.15:789][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
 [2026.03.01-18.49.16:144][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
 [2026.03.01-18.49.16:451][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.01-18.54.17:509][238]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17053.386719
+[2026.03.01-18.54.18:509][241]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-18.54.18:509][241]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17054.052734, Update Interval: 353.431793
+[2026.03.01-19.00.58:891][442]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17455.378906
+[2026.03.01-19.00.59:892][445]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-19.00.59:892][445]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17456.046875, Update Interval: 336.805328
+[2026.03.01-19.07.16:940][576]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17833.984375
+[2026.03.01-19.07.17:940][579]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-19.07.17:940][579]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17834.652344, Update Interval: 343.373505
+[2026.03.01-19.11.57:801][419]LogDerivedDataCache: C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.01-19.13.45:328][741]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18222.919922
+[2026.03.01-19.13.46:328][744]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-19.13.46:328][744]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18223.587891, Update Interval: 314.189270
+[2026.03.01-19.19.44:717][819]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18582.859375
+[2026.03.01-19.19.45:716][822]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-19.19.45:716][822]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18583.525391, Update Interval: 329.458893
+[2026.03.01-19.26.08:720][971]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18967.414062
+[2026.03.01-19.26.09:721][974]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-19.26.09:721][974]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18968.082031, Update Interval: 322.907196
+[2026.03.01-19.32.12:386][ 62]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19331.687500
+[2026.03.01-19.32.13:386][ 65]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-19.32.13:386][ 65]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19332.355469, Update Interval: 359.527588
+[2026.03.01-19.39.01:401][289]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19741.365234
+[2026.03.01-19.39.02:401][292]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-19.39.02:401][292]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19742.031250, Update Interval: 332.791534
+[2026.03.01-19.45.21:747][430]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20122.292969
+[2026.03.01-19.45.22:748][433]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-19.45.22:748][433]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20122.958984, Update Interval: 335.562012
+[2026.03.01-19.51.50:099][595]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20511.263672
+[2026.03.01-19.51.51:099][598]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-19.51.51:099][598]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20511.931641, Update Interval: 303.173309
+[2026.03.01-19.57.37:455][637]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20859.199219
+[2026.03.01-19.57.38:456][640]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-19.57.38:456][640]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20859.865234, Update Interval: 324.747467
+[2026.03.01-20.04.00:146][785]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21242.478516
+[2026.03.01-20.04.01:146][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-20.04.01:147][788]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21243.146484, Update Interval: 357.361359
+[2026.03.01-20.10.30:503][956]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21633.460938
+[2026.03.01-20.10.31:503][959]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-20.10.31:503][959]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21634.128906, Update Interval: 344.697418
+[2026.03.01-20.11.57:801][218]LogDerivedDataCache: C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.01-20.17.07:203][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22030.787109
+[2026.03.01-20.17.08:203][149]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-20.17.08:204][149]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22031.455078, Update Interval: 304.711456
+[2026.03.01-20.23.01:238][208]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22385.351562
+[2026.03.01-20.23.02:238][211]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-20.23.02:238][211]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22386.017578, Update Interval: 337.241119
+[2026.03.01-20.29.15:276][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22759.974609
+[2026.03.01-20.29.16:276][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-20.29.16:276][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22760.642578, Update Interval: 319.735718
+[2026.03.01-20.35.13:966][406]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23119.236328
+[2026.03.01-20.35.14:966][409]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-20.35.14:966][409]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23119.904297, Update Interval: 355.143890
+[2026.03.01-20.41.52:998][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23518.898438
+[2026.03.01-20.41.53:998][606]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-20.41.53:999][606]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23519.566406, Update Interval: 357.515198
+[2026.03.01-20.48.39:717][823]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23926.234375
+[2026.03.01-20.48.40:717][826]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-20.48.40:717][826]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23926.902344, Update Interval: 356.123535
+[2026.03.01-20.55.18:758][ 20]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24325.898438
+[2026.03.01-20.55.19:759][ 23]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-20.55.19:759][ 23]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24326.566406, Update Interval: 354.911346
+[2026.03.01-21.01.58:139][218]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24725.861328
+[2026.03.01-21.01.59:140][221]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-21.01.59:140][221]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24726.529297, Update Interval: 348.550049
+[2026.03.01-21.08.34:515][407]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25122.837891
+[2026.03.01-21.08.35:515][410]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-21.08.35:515][410]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25123.505859, Update Interval: 356.866974
+[2026.03.01-21.11.57:802][ 17]LogDerivedDataCache: C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.01-21.15.08:889][590]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25517.781250
+[2026.03.01-21.15.09:890][593]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-21.15.09:890][593]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25518.449219, Update Interval: 343.208710
+[2026.03.01-21.21.28:927][730]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25898.398438
+[2026.03.01-21.21.29:927][733]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-21.21.29:927][733]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25899.066406, Update Interval: 337.199005
+[2026.03.01-21.28.05:303][919]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26295.341797
+[2026.03.01-21.28.06:302][922]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-21.28.06:303][922]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26296.007812, Update Interval: 315.474701
+[2026.03.01-21.30.13:956][489]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-21.30.13:961][489]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.01-21.30.13:961][489]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.01-21.30.13:961][489]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 543 us (total: 12.737 ms)
+[2026.03.01-21.30.13:962][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-21.30.13:962][489]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.01-21.30.13:967][489]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.01-21.30.13:968][489]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.111 ms (total: 24.246 ms)
+[2026.03.01-21.30.13:968][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006748s)
+[2026.03.01-21.30.13:968][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.006771s)
+[2026.03.01-21.30.13:988][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.01-21.30.13:989][489]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.01-21.30.13:991][489]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.01-21.30.13:991][489]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.01-21.30.13:991][489]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.01-21.30.13:991][489]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.01-21.30.13:991][489]LogWorldPartition: Display: WorldPartition initialize took 1.068 ms (total: 177.306 ms)
+[2026.03.01-21.30.13:991][489]LogPlayLevel: PIE: World Init took: (0.002345s)
+[2026.03.01-21.30.13:992][489]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.03.01-21.30.13:992][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-21.30.13:992][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-21.30.13:992][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-21.30.13:992][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-21.30.13:992][489]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-21.30.13:992][489]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-21.30.13:992][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-21.30.13:992][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-21.30.13:992][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-21.30.13:992][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-21.30.13:992][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-21.30.13:994][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-21.30.14:011][489]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-21.30.14:011][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-21.30.14:011][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-21.30.14:011][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-21.30.14:012][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.03.01-21.30.14:012][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2026.03.01-21.30.14:014][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.03.01-21.30.14:014][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.03.01-21.30.14:014][489]LogInit: FAudioDevice initialized with ID 27.
+[2026.03.01-21.30.14:014][489]LogAudio: Display: Audio Device (ID: 27) registered with world 'Lvl_ThirdPerson'.
+[2026.03.01-21.30.14:014][489]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.03.01-21.30.14:017][489]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.01-21.30.14:019][489]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.01-21.30.14
+[2026.03.01-21.30.14:019][489]LogWorld: Bringing up level for play took: 0.002150
+[2026.03.01-21.30.14:021][489]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2026.03.01-21.30.14:024][489]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.03.01-21.30.14:024][489]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.03.01-21.30.14:024][489]PIE: Server logged in
+[2026.03.01-21.30.14:025][489]PIE: Play in editor total start time 0.065 seconds.
+[2026.03.01-21.32.21:014][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-21.32.21:014][ 91]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.01-21.32.21:014][ 91]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.03.01-21.32.21:014][ 91]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-21.32.21:015][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-21.32.21:015][ 91]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.01-21.32.21:016][ 91]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-21.32.21:021][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-21.32.21:037][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-21.32.21:037][ 91]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.03.01-21.32.21:037][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2026.03.01-21.32.21:039][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2026.03.01-21.32.21:043][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.03.01-21.32.21:086][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2026.03.01-21.34.20:088][624]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26670.701172
+[2026.03.01-21.34.21:089][627]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-21.34.21:089][627]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26671.369141, Update Interval: 340.026245
+[2026.03.01-21.40.43:470][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27054.476562
+[2026.03.01-21.40.44:469][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-21.40.44:469][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27055.144531, Update Interval: 314.018982
+[2026.03.01-21.46.51:175][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27422.644531
+[2026.03.01-21.46.52:176][880]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-21.46.52:176][880]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27423.312500, Update Interval: 320.460815
+[2026.03.01-21.52.50:223][954]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27782.101562
+[2026.03.01-21.52.51:223][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-21.52.51:223][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27782.769531, Update Interval: 320.354614
+[2026.03.01-21.58.18:579][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.01-21.58.19:063][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.01-21.58.19:447][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.03.01-21.58.19:899][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.01-21.58.20:369][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.01-21.58.20:601][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.01-21.58.20:928][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.01-21.58.21:147][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.01-21.58.21:551][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.01-21.58.21:873][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
