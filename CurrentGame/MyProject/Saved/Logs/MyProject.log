@@ -12369,3 +12369,5 @@ Sampler Limit: 32
 [2026.03.24-22.07.48:667][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
 [2026.03.24-22.07.48:954][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
 [2026.03.24-22.07.49:228][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.03.24-22.08.10:432][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.24-22.08.10:917][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
