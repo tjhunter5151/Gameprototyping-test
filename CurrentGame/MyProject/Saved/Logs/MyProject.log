@@ -17602,3 +17602,492 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.19-15.40.00:578][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
 [2026.04.19-15.40.01:337][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
 [2026.04.19-15.40.01:752][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.19-15.41.40:034][140]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19328.054688
+[2026.04.19-15.41.41:033][143]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-15.41.41:033][143]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19328.722656, Update Interval: 322.368835
+[2026.04.19-15.47.47:071][241]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19695.509766
+[2026.04.19-15.47.48:072][244]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-15.47.48:072][244]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19696.177734, Update Interval: 305.030060
+[2026.04.19-15.53.51:435][334]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20060.328125
+[2026.04.19-15.53.52:435][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-15.53.52:435][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20060.996094, Update Interval: 336.777863
+[2026.04.19-16.00.04:809][454]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20434.115234
+[2026.04.19-16.00.05:808][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-16.00.05:808][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20434.783203, Update Interval: 333.912170
+[2026.04.19-16.06.14:179][562]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20803.947266
+[2026.04.19-16.06.15:181][565]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-16.06.15:181][565]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20804.615234, Update Interval: 301.263458
+[2026.04.19-16.11.53:221][579]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21143.404297
+[2026.04.19-16.11.54:220][582]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-16.11.54:221][582]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21144.072266, Update Interval: 340.698273
+[2026.04.19-16.18.07:263][701]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21517.947266
+[2026.04.19-16.18.08:262][704]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-16.18.08:262][704]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21518.615234, Update Interval: 349.286163
+[2026.04.19-16.20.40:844][162]LogDerivedDataCache: C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.19-16.24.49:981][909]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21921.158203
+[2026.04.19-16.24.50:981][912]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-16.24.50:981][912]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21921.824219, Update Interval: 318.369690
+[2026.04.19-16.31.00:696][ 21]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22292.324219
+[2026.04.19-16.31.01:696][ 24]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-16.31.01:696][ 24]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22292.992188, Update Interval: 344.380615
+[2026.04.19-16.37.32:737][197]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22684.843750
+[2026.04.19-16.37.33:737][200]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-16.37.33:738][200]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22685.511719, Update Interval: 359.062469
+[2026.04.19-16.44.30:795][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23103.410156
+[2026.04.19-16.44.31:796][454]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-16.44.31:796][454]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23104.078125, Update Interval: 338.374573
+[2026.04.19-16.51.02:844][627]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23495.896484
+[2026.04.19-16.51.03:844][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-16.51.03:844][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23496.562500, Update Interval: 352.948395
+[2026.04.19-16.57.51:898][854]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23905.429688
+[2026.04.19-16.57.52:899][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-16.57.52:899][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23906.097656, Update Interval: 336.435425
+[2026.04.19-17.04.00:604][960]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24274.603516
+[2026.04.19-17.04.01:604][963]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-17.04.01:604][963]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24275.269531, Update Interval: 348.669098
+[2026.04.19-17.10.37:315][150]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24671.787109
+[2026.04.19-17.10.38:315][153]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-17.10.38:315][153]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24672.455078, Update Interval: 315.813477
+[2026.04.19-17.16.43:015][247]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25037.964844
+[2026.04.19-17.16.44:015][250]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-17.16.44:015][250]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25038.632812, Update Interval: 317.137360
+[2026.04.19-17.20.40:845][961]LogDerivedDataCache: C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.19-17.22.47:725][341]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25403.191406
+[2026.04.19-17.22.48:726][344]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-17.22.48:726][344]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25403.859375, Update Interval: 335.208588
+[2026.04.19-17.29.04:776][472]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25780.726562
+[2026.04.19-17.29.05:777][475]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-17.29.05:777][475]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25781.394531, Update Interval: 310.640594
+[2026.04.19-17.34.48:152][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26124.498047
+[2026.04.19-17.34.49:151][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-17.34.49:151][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26125.164062, Update Interval: 301.550964
+[2026.04.19-17.40.43:529][568]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26480.306641
+[2026.04.19-17.40.44:529][571]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-17.40.44:529][571]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26480.974609, Update Interval: 359.064301
+[2026.04.19-17.47.16:915][748]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26874.208984
+[2026.04.19-17.47.17:915][751]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-17.47.17:915][751]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26874.875000, Update Interval: 311.156952
+[2026.04.19-17.53.11:594][812]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27229.414062
+[2026.04.19-17.53.12:593][815]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-17.53.12:593][815]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27230.080078, Update Interval: 315.161591
+[2026.04.19-17.59.10:911][890]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27589.267578
+[2026.04.19-17.59.11:911][893]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-17.59.11:912][893]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27589.933594, Update Interval: 352.073120
+[2026.04.19-18.05.56:914][108]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27995.804688
+[2026.04.19-18.05.57:913][111]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-18.05.57:913][111]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27996.470703, Update Interval: 310.713837
+[2026.04.19-18.11.55:594][184]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28354.931641
+[2026.04.19-18.11.56:594][187]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-18.11.56:594][187]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28355.599609, Update Interval: 344.516113
+[2026.04.19-18.18.25:947][355]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28745.828125
+[2026.04.19-18.18.26:948][358]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-18.18.26:948][358]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28746.496094, Update Interval: 355.458862
+[2026.04.19-18.20.40:846][760]LogDerivedDataCache: C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.19-18.25.18:963][594]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29159.388672
+[2026.04.19-18.25.19:964][597]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-18.25.19:964][597]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29160.056641, Update Interval: 326.267273
+[2026.04.19-18.31.36:644][727]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29537.548828
+[2026.04.19-18.31.37:644][730]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-18.31.37:644][730]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29538.214844, Update Interval: 340.674469
+[2026.04.19-18.38.02:661][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29924.083984
+[2026.04.19-18.38.03:662][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-18.38.03:662][888]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29924.751953, Update Interval: 319.915161
+[2026.04.19-18.44.15:344][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30297.281250
+[2026.04.19-18.44.16:344][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-18.44.16:344][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30297.947266, Update Interval: 359.285858
+[2026.04.19-18.51.15:039][262]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30717.533203
+[2026.04.19-18.51.16:039][265]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-18.51.16:040][265]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30718.201172, Update Interval: 348.784454
+[2026.04.19-18.57.49:410][445]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31112.380859
+[2026.04.19-18.57.50:410][448]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-18.57.50:410][448]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31113.046875, Update Interval: 324.366577
+[2026.04.19-19.04.07:772][580]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31491.283203
+[2026.04.19-19.04.08:772][583]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-19.04.08:772][583]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31491.949219, Update Interval: 318.483215
+[2026.04.19-19.10.11:805][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31855.812500
+[2026.04.19-19.10.12:805][675]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-19.10.12:805][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31856.480469, Update Interval: 357.914368
+[2026.04.19-19.16.44:173][849]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32248.707031
+[2026.04.19-19.16.45:173][852]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-19.16.45:174][852]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32249.375000, Update Interval: 350.888397
+[2026.04.19-19.20.40:847][559]LogDerivedDataCache: C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.19-19.23.23:205][ 46]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32648.261719
+[2026.04.19-19.23.24:204][ 49]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-19.23.24:204][ 49]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32648.929688, Update Interval: 331.778931
+[2026.04.19-19.29.43:914][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33028.214844
+[2026.04.19-19.29.44:913][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-19.29.44:913][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33028.878906, Update Interval: 327.466644
+[2026.04.19-19.35.43:940][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33386.957031
+[2026.04.19-19.35.44:940][271]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-19.35.44:940][271]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33387.621094, Update Interval: 332.610260
+[2026.04.19-19.41.47:646][359]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33749.363281
+[2026.04.19-19.41.48:646][362]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-19.41.48:646][362]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33750.027344, Update Interval: 308.822296
+[2026.04.19-19.47.42:359][423]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34102.835938
+[2026.04.19-19.47.43:359][426]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-19.47.43:359][426]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34103.500000, Update Interval: 312.702423
+[2026.04.19-19.53.42:062][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34461.257812
+[2026.04.19-19.53.43:063][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-19.53.43:063][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34461.921875, Update Interval: 347.321381
+[2026.04.19-20.00.11:113][669]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34848.925781
+[2026.04.19-20.00.12:113][672]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-20.00.12:113][672]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34849.589844, Update Interval: 338.621796
+[2026.04.19-20.06.29:489][804]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35225.980469
+[2026.04.19-20.06.30:489][807]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-20.06.30:489][807]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35226.644531, Update Interval: 339.671021
+[2026.04.19-20.13.00:861][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35615.937500
+[2026.04.19-20.13.01:862][981]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-20.13.01:862][981]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35616.601562, Update Interval: 359.465332
+[2026.04.19-20.19.53:903][217]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36027.507812
+[2026.04.19-20.19.54:903][220]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-20.19.54:903][220]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36028.171875, Update Interval: 356.343262
+[2026.04.19-20.20.40:847][358]LogDerivedDataCache: C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.19-20.21.06:893][758]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.19-20.21.06:904][758]LogContentBundle: [Real-LevelTwo(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.19-20.21.06:904][758]LogWorldPartition: Display: GenerateStreaming for 'Real-LevelTwo' started...
+[2026.04.19-20.21.06:917][758]LogWorldPartition: Display: GenerateStreaming for 'Real-LevelTwo' took 11.753 ms (total: 400.054 ms)
+[2026.04.19-20.21.06:918][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.19-20.21.06:919][758]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Real-LevelTwo
+[2026.04.19-20.21.07:049][758]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.19-20.21.07:066][758]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 17.061 ms (total: 530.430 ms)
+[2026.04.19-20.21.07:066][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.146955s)
+[2026.04.19-20.21.07:066][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Real-LevelTwo.Real-LevelTwo to /Game/levels/UEDPIE_0_Real-LevelTwo.Real-LevelTwo (0.147078s)
+[2026.04.19-20.21.07:135][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2026.04.19-20.21.07:138][758]LogChaosDD: Creating Chaos Debug Draw Scene for world Real-LevelTwo
+[2026.04.19-20.21.07:140][758]LogWorldPartition: ULevel::OnLevelLoaded(Real-LevelTwo)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.19-20.21.07:140][758]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.19-20.21.07:140][758]LogWorldPartition: UWorldPartition::Initialize : World = /Game/levels/UEDPIE_0_Real-LevelTwo.Real-LevelTwo, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.19-20.21.07:140][758]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.19-20.21.07:158][758]LogWorldPartition: Display: WorldPartition initialize took 18.204 ms (total: 3.98 sec)
+[2026.04.19-20.21.07:158][758]LogPlayLevel: PIE: World Init took: (0.020886s)
+[2026.04.19-20.21.07:159][758]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2026.04.19-20.21.07:159][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.19-20.21.07:159][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.19-20.21.07:159][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.19-20.21.07:159][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.19-20.21.07:159][758]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.19-20.21.07:159][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.19-20.21.07:159][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.19-20.21.07:159][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.19-20.21.07:159][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.19-20.21.07:159][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.19-20.21.07:159][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.19-20.21.07:162][758]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.19-20.21.07:180][758]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.19-20.21.07:181][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.19-20.21.07:181][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.19-20.21.07:181][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.19-20.21.07:183][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2026.04.19-20.21.07:183][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2026.04.19-20.21.07:184][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2026.04.19-20.21.07:184][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2026.04.19-20.21.07:184][758]LogInit: FAudioDevice initialized with ID 33.
+[2026.04.19-20.21.07:184][758]LogAudio: Display: Audio Device (ID: 33) registered with world 'Real-LevelTwo'.
+[2026.04.19-20.21.07:184][758]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2026.04.19-20.21.07:195][758]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.19-20.21.07:226][758]LogWorld: Bringing World /Game/levels/UEDPIE_0_Real-LevelTwo.Real-LevelTwo up for play (max tick rate 0) at 2026.04.19-21.21.07
+[2026.04.19-20.21.07:227][758]LogWorld: Bringing up level for play took: 0.031531
+[2026.04.19-20.21.07:229][758]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2026.04.19-20.21.07:238][758]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.04.19-20.21.07:238][758]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/levels/UEDPIE_0_Real-LevelTwo.Real-LevelTwo:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.04.19-20.21.07:239][758]PIE: Server logged in
+[2026.04.19-20.21.07:240][758]PIE: Play in editor total start time 0.336 seconds.
+[2026.04.19-20.21.07:949][793]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2026.04.19-20.21.07:949][793]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hit somethignelse
+[2026.04.19-20.22.28:511][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-20.22.28:511][624]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Real-LevelTwo
+[2026.04.19-20.22.28:511][624]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.19-20.22.28:514][624]LogWorld: UWorld::CleanupWorld for Real-LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-20.22.28:519][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-20.22.28:520][624]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/levels/UEDPIE_0_Real-LevelTwo.Real-LevelTwo
+[2026.04.19-20.22.28:525][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.19-20.22.28:531][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-20.22.28:550][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-20.22.28:553][624]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2026.04.19-20.22.28:553][624]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=4
+[2026.04.19-20.22.28:555][624]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=2
+[2026.04.19-20.22.28:569][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.04.19-20.22.28:638][625]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2026.04.19-20.25.15:892][662]Cmd: TRANSACTION UNDO
+[2026.04.19-20.25.15:892][662]LogEditorTransaction: Undo Move Elements
+[2026.04.19-20.25.16:221][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.19-20.25.16:223][662]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.19-20.26.45:568][907]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36419.386719
+[2026.04.19-20.26.45:735][917]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-20.26.45:735][917]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36419.527344, Update Interval: 305.903503
+[2026.04.19-20.26.47:353][ 15]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.19-20.27.33:600][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.04.19-20.27.33:614][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/5/KP/Y7YTK96DF83Z7BUTK72RQL_Auto2
+[2026.04.19-20.27.33:614][390]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Y7YTK96DF83Z7BUTK72RQL_Auto2D161EA9D46AC74DAEFC62DB118FC3B86.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/5/KP/Y7YTK96DF83Z7BUTK72RQL_Auto2.uasset'
+[2026.04.19-20.27.33:616][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/6/KW/U8ZDL0AD00NYXE9GIO9W7L_Auto2
+[2026.04.19-20.27.33:616][390]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/U8ZDL0AD00NYXE9GIO9W7L_Auto2A169232D491BC138DE4F8C8187AE640D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/6/KW/U8ZDL0AD00NYXE9GIO9W7L_Auto2.uasset'
+[2026.04.19-20.27.33:617][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/6/QB/LZ91IZFVRQRVW8EI0ZGZRY_Auto2
+[2026.04.19-20.27.33:617][390]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/LZ91IZFVRQRVW8EI0ZGZRY_Auto21BCE9C3E41F1CEBA62F7E683568688BC.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/6/QB/LZ91IZFVRQRVW8EI0ZGZRY_Auto2.uasset'
+[2026.04.19-20.27.33:619][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/8/4M/T9MXIK2G25BNDVXOR2XCZ5_Auto2
+[2026.04.19-20.27.33:619][390]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/T9MXIK2G25BNDVXOR2XCZ5_Auto29371E48C47298489B75C79B67BD2CE2E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/8/4M/T9MXIK2G25BNDVXOR2XCZ5_Auto2.uasset'
+[2026.04.19-20.27.33:620][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/8/H0/YGL8OZM44MNJMGNTAWX8GR_Auto2
+[2026.04.19-20.27.33:620][390]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/YGL8OZM44MNJMGNTAWX8GR_Auto23EF1E4174C9C8459E498A7B2471F15FE.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/8/H0/YGL8OZM44MNJMGNTAWX8GR_Auto2.uasset'
+[2026.04.19-20.27.33:621][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/9/D2/9MU1VXSRQCYIBGPVANBALQ_Auto2
+[2026.04.19-20.27.33:621][390]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/9MU1VXSRQCYIBGPVANBALQ_Auto2D701973A4CFC8046AF47A3925082D0DF.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/9/D2/9MU1VXSRQCYIBGPVANBALQ_Auto2.uasset'
+[2026.04.19-20.27.33:624][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/9/VC/ZO4KLJ9MDJ644W353ESSSX_Auto2
+[2026.04.19-20.27.33:624][390]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/ZO4KLJ9MDJ644W353ESSSX_Auto26ED1690F430C1E405A329B8CD17BDD98.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/9/VC/ZO4KLJ9MDJ644W353ESSSX_Auto2.uasset'
+[2026.04.19-20.27.33:626][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/A/PE/A5GEN5UR5SW99B4CW91CGP_Auto2
+[2026.04.19-20.27.33:626][390]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/A5GEN5UR5SW99B4CW91CGP_Auto29D8ED2F84E92BCB9610E6E9EBA1797B5.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/A/PE/A5GEN5UR5SW99B4CW91CGP_Auto2.uasset'
+[2026.04.19-20.27.33:627][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/B/C5/PA67W9HJ4YKT2QU73VMZGN_Auto2
+[2026.04.19-20.27.33:627][390]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/PA67W9HJ4YKT2QU73VMZGN_Auto2AE5689234965A7B28C7DBFA2820448E9.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/B/C5/PA67W9HJ4YKT2QU73VMZGN_Auto2.uasset'
+[2026.04.19-20.27.33:629][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/B/NN/Y4MBFFYX5YWQVMQ4EUO3XN_Auto2
+[2026.04.19-20.27.33:629][390]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Y4MBFFYX5YWQVMQ4EUO3XN_Auto21DE56CD44F1DA14EC0CADAB7CF916998.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/B/NN/Y4MBFFYX5YWQVMQ4EUO3XN_Auto2.uasset'
+[2026.04.19-20.27.33:630][390]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/Real-LevelTwo' took 0.050
+[2026.04.19-20.27.33:630][390]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2026.04.19-20.27.42:620][811]LogStreaming: Display: FlushAsyncLoading(14498): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-20.27.42:638][811]LogStaticMesh: Display: Building static mesh SM_ColorCalibrator (Required Memory Estimate: 59.138803 MB)...
+[2026.04.19-20.27.42:778][818]LogStaticMesh: Built static mesh [0.14s] /Engine/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.SM_ColorCalibrator
+[2026.04.19-20.27.44:008][890]LogStreaming: Display: FlushAsyncLoading(14499): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-20.27.47:260][ 11]Cmd: TRANSACTION UNDO
+[2026.04.19-20.27.47:260][ 11]LogEditorTransaction: Undo Clicking on Elements
+[2026.04.19-20.27.47:523][ 11]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.19-20.27.47:525][ 11]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.19-20.27.48:088][ 26]Cmd: TRANSACTION UNDO
+[2026.04.19-20.27.48:088][ 26]LogEditorTransaction: Undo Move Elements
+[2026.04.19-20.27.48:388][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.19-20.27.48:389][ 26]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.19-20.27.53:255][229]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: ================================================
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Total job queries 476, among them cache hits 49 (10.29%), DDC hits 342 (71.85%), Duplicates 70 (14.71%)
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Tracking 357 distinct input hashes that result in 266 distinct outputs (74.51%)
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: RAM used: 3.52 MiB of 1.60 GiB budget. Usage: 0.21%
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Shaders Compiled: 15
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Jobs assigned 15, completed 15 (100%)
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Average time worker was idle: 22873.18 s
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 0.74 s
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 1.01 s
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Job life time (pending + execution): average 0.80 s, max 1.06
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Shader code size: total 129.477 KiB, numShaders 15, average 8.631 KiB, min 5.562 KiB, max 11.543 KiB
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.63 s
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Average processing rate: 9.20 jobs/sec
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Total thread time: 5.564 s
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Total thread preprocess time: 4.157 s
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Percentage time preprocessing: 74.71%
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Effective parallelization: 3.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.426828
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.60 sec, max 0.62 sec, min 0.59 sec)
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.29 sec, max 0.33 sec, min 0.23 sec)
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.17 sec, max 0.18 sec, min 0.17 sec)
+[2026.04.19-20.27.56:910][448]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.19-20.27.56:911][448]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.19-20.27.56:911][448]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 54.27% of total time (compiled    5 times, average 0.60 sec, max 0.62 sec, min 0.59 sec)
+[2026.04.19-20.27.56:911][448]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 36.20% of total time (compiled    7 times, average 0.29 sec, max 0.33 sec, min 0.23 sec)
+[2026.04.19-20.27.56:911][448]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.29% of total time (compiled    2 times, average 0.17 sec, max 0.18 sec, min 0.17 sec)
+[2026.04.19-20.27.56:911][448]LogShaderCompilers: Display:                                                  FHitProxyVS - 3.24% of total time (compiled    1 times, average 0.18 sec, max 0.18 sec, min 0.18 sec)
+[2026.04.19-20.27.56:911][448]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.19-20.27.56:911][448]LogShaderCompilers: Display: === Material stats ===
+[2026.04.19-20.27.56:911][448]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.19-20.27.56:911][448]LogShaderCompilers: Display: Materials Translated:    156
+[2026.04.19-20.27.56:911][448]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.04.19-20.27.56:911][448]LogShaderCompilers: Display: Material Translation Only: 0.04 s (42%)
+[2026.04.19-20.27.56:911][448]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.04.19-20.27.56:911][448]LogShaderCompilers: Display: Material Cache Hits: 26 (17%)
+[2026.04.19-20.27.56:911][448]LogShaderCompilers: Display: ================================================
+[2026.04.19-20.32.23:923][527]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36741.605469
+[2026.04.19-20.32.24:176][534]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-20.32.24:176][534]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36741.828125, Update Interval: 319.814453
+[2026.04.19-20.34.17:480][ 78]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.19-20.34.56:015][230]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.19-20.37.33:396][636]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.04.19-20.37.35:485][728]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.04.19-20.37.35:630][735]LogStreaming: Display: FlushAsyncLoading(14503): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.19-20.37.35:819][747]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.04.19-20.37.36:922][798]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/BP_EnemyAI.BP_EnemyAI_C
+[2026.04.19-20.37.36:922][798]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/BP_EnemyAI.BP_EnemyAI_C
+[2026.04.19-20.37.36:925][798]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/levels/Real-LevelTwo.Real-LevelTwo:PersistentLevel.BP_EnemyAI_C_0
+[2026.04.19-20.37.36:926][798]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/levels/Real-LevelTwo.Real-LevelTwo:PersistentLevel.BP_EnemyAI_C_0
+[2026.04.19-20.37.36:929][798]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.04.19-20.37.38:307][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.04.19-20.37.38:318][880]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2026.04.19-20.37.38:323][880]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/BP_EnemyAI.BP_EnemyAI_C
+[2026.04.19-20.37.38:323][880]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemies/BP_EnemyAI.BP_EnemyAI_C
+[2026.04.19-20.37.38:329][880]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/levels/Real-LevelTwo.Real-LevelTwo:PersistentLevel.BP_EnemyAI_C_UAID_BCFCE7D914DB38D302_2075802236
+[2026.04.19-20.37.38:330][880]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemies/BP_EnemyAI.BP_EnemyAI as actor: BP_EnemyAI_C /Game/levels/Real-LevelTwo.Real-LevelTwo:PersistentLevel.BP_EnemyAI_C_UAID_BCFCE7D914DB38D302_2075802236
+[2026.04.19-20.37.38:400][881]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.19-20.37.51:498][667]Cmd: TRANSACTION UNDO
+[2026.04.19-20.37.51:498][667]LogEditorTransaction: Undo Move Elements
+[2026.04.19-20.37.51:822][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.19-20.37.51:823][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.19-20.37.52:121][674]Cmd: TRANSACTION UNDO
+[2026.04.19-20.37.52:121][674]LogEditorTransaction: Undo Move Elements
+[2026.04.19-20.37.52:413][674]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.19-20.37.52:415][674]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.19-20.38.29:873][577]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37088.632812
+[2026.04.19-20.38.30:086][583]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-20.38.30:086][583]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37088.816406, Update Interval: 314.407166
+[2026.04.19-20.38.31:484][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.04.19-20.38.31:497][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/5/KP/Y7YTK96DF83Z7BUTK72RQL_Auto3
+[2026.04.19-20.38.31:497][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Y7YTK96DF83Z7BUTK72RQL_Auto3A77993F34528DBEF706190A64C955FF5.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/5/KP/Y7YTK96DF83Z7BUTK72RQL_Auto3.uasset'
+[2026.04.19-20.38.31:499][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/6/KW/U8ZDL0AD00NYXE9GIO9W7L_Auto3
+[2026.04.19-20.38.31:499][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/U8ZDL0AD00NYXE9GIO9W7L_Auto33E48CE0741E57226CA6852BBB5843D5D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/6/KW/U8ZDL0AD00NYXE9GIO9W7L_Auto3.uasset'
+[2026.04.19-20.38.31:501][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/6/QB/LZ91IZFVRQRVW8EI0ZGZRY_Auto3
+[2026.04.19-20.38.31:501][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/LZ91IZFVRQRVW8EI0ZGZRY_Auto3A52AA3A24BDA8055DF9AD2A5EF0FFCC4.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/6/QB/LZ91IZFVRQRVW8EI0ZGZRY_Auto3.uasset'
+[2026.04.19-20.38.31:502][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/8/4M/T9MXIK2G25BNDVXOR2XCZ5_Auto3
+[2026.04.19-20.38.31:502][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/T9MXIK2G25BNDVXOR2XCZ5_Auto36A57FAF24A23F8CAB7C9209B043349A2.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/8/4M/T9MXIK2G25BNDVXOR2XCZ5_Auto3.uasset'
+[2026.04.19-20.38.31:504][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/8/H0/YGL8OZM44MNJMGNTAWX8GR_Auto3
+[2026.04.19-20.38.31:504][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/YGL8OZM44MNJMGNTAWX8GR_Auto330D8D3BB44FB00B114F370BEDBE8C8F2.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/8/H0/YGL8OZM44MNJMGNTAWX8GR_Auto3.uasset'
+[2026.04.19-20.38.31:505][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/9/D2/9MU1VXSRQCYIBGPVANBALQ_Auto3
+[2026.04.19-20.38.31:505][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/9MU1VXSRQCYIBGPVANBALQ_Auto3F2C5E96447D62B74353F2D9F4429D26D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/9/D2/9MU1VXSRQCYIBGPVANBALQ_Auto3.uasset'
+[2026.04.19-20.38.31:507][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/9/VC/ZO4KLJ9MDJ644W353ESSSX_Auto3
+[2026.04.19-20.38.31:507][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/ZO4KLJ9MDJ644W353ESSSX_Auto3E5D5B590458BCB859DA17C93B7801C3C.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/9/VC/ZO4KLJ9MDJ644W353ESSSX_Auto3.uasset'
+[2026.04.19-20.38.31:507][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/A/PE/A5GEN5UR5SW99B4CW91CGP_Auto3
+[2026.04.19-20.38.31:507][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/A5GEN5UR5SW99B4CW91CGP_Auto3410BCDAC4938A1DF32138F9852DCF726.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/A/PE/A5GEN5UR5SW99B4CW91CGP_Auto3.uasset'
+[2026.04.19-20.38.31:510][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/B/C5/PA67W9HJ4YKT2QU73VMZGN_Auto3
+[2026.04.19-20.38.31:510][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/PA67W9HJ4YKT2QU73VMZGN_Auto32555AAD44E745292431AF59BD79012EA.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/B/C5/PA67W9HJ4YKT2QU73VMZGN_Auto3.uasset'
+[2026.04.19-20.38.31:511][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/B/NN/Y4MBFFYX5YWQVMQ4EUO3XN_Auto3
+[2026.04.19-20.38.31:511][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Y4MBFFYX5YWQVMQ4EUO3XN_Auto39D57DDAE41165A8C8B5232B0D275DB0D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/B/NN/Y4MBFFYX5YWQVMQ4EUO3XN_Auto3.uasset'
+[2026.04.19-20.38.31:513][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/E/VM/HIW4DLQQI97OEQSN94QTGP_Auto3
+[2026.04.19-20.38.31:514][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/HIW4DLQQI97OEQSN94QTGP_Auto38C015A8E4774A1F8672AB28E8C3A082B.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/E/VM/HIW4DLQQI97OEQSN94QTGP_Auto3.uasset'
+[2026.04.19-20.38.31:515][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/D/G7/TNIRQ7U63UPHI56ZIAMJXN_Auto3
+[2026.04.19-20.38.31:515][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/TNIRQ7U63UPHI56ZIAMJXN_Auto3A2A0BC744AD264201B662EA885C98033.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/D/G7/TNIRQ7U63UPHI56ZIAMJXN_Auto3.uasset'
+[2026.04.19-20.38.31:517][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/8/FT/XBWF9S689MHZH14WQC65SB_Auto3
+[2026.04.19-20.38.31:517][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/XBWF9S689MHZH14WQC65SB_Auto3B02CF81F49B2CAE1BFE5228AD8EDAB6E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/8/FT/XBWF9S689MHZH14WQC65SB_Auto3.uasset'
+[2026.04.19-20.38.31:518][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/8/YO/WINHA2X1OI5M4R63R4FZCR_Auto3
+[2026.04.19-20.38.31:518][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/WINHA2X1OI5M4R63R4FZCR_Auto345662D264E0620D969A282BB8A4B15D5.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/8/YO/WINHA2X1OI5M4R63R4FZCR_Auto3.uasset'
+[2026.04.19-20.38.31:521][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/A/MR/ZYFH6VIVVP4EYKF1E7QNF3_Auto3
+[2026.04.19-20.38.31:521][618]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/ZYFH6VIVVP4EYKF1E7QNF3_Auto3411BF59D456F878A67524689628D3CBF.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Autosaves/Game/__ExternalActors__/levels/Real-LevelTwo/A/MR/ZYFH6VIVVP4EYKF1E7QNF3_Auto3.uasset'
+[2026.04.19-20.38.31:521][618]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/Real-LevelTwo' took 0.057
+[2026.04.19-20.38.31:521][618]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2026.04.19-20.39.09:749][795]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.04.19-20.43.03:635][620]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.19-20.43.03:641][620]LogContentBundle: [Real-LevelTwo(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.04.19-20.43.03:641][620]LogWorldPartition: Display: GenerateStreaming for 'Real-LevelTwo' started...
+[2026.04.19-20.43.03:645][620]LogWorldPartition: Display: GenerateStreaming for 'Real-LevelTwo' took 4.325 ms (total: 404.380 ms)
+[2026.04.19-20.43.03:646][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.19-20.43.03:646][620]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Real-LevelTwo
+[2026.04.19-20.43.03:722][620]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.04.19-20.43.03:740][620]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 17.171 ms (total: 547.601 ms)
+[2026.04.19-20.43.03:740][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094508s)
+[2026.04.19-20.43.03:740][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Real-LevelTwo.Real-LevelTwo to /Game/levels/UEDPIE_0_Real-LevelTwo.Real-LevelTwo (0.094535s)
+[2026.04.19-20.43.03:759][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.04.19-20.43.03:772][620]LogChaosDD: Creating Chaos Debug Draw Scene for world Real-LevelTwo
+[2026.04.19-20.43.03:773][620]LogWorldPartition: ULevel::OnLevelLoaded(Real-LevelTwo)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.04.19-20.43.03:773][620]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.04.19-20.43.03:773][620]LogWorldPartition: UWorldPartition::Initialize : World = /Game/levels/UEDPIE_0_Real-LevelTwo.Real-LevelTwo, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.04.19-20.43.03:773][620]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.04.19-20.43.03:791][620]LogWorldPartition: Display: WorldPartition initialize took 17.251 ms (total: 3.99 sec)
+[2026.04.19-20.43.03:791][620]LogPlayLevel: PIE: World Init took: (0.018782s)
+[2026.04.19-20.43.03:791][620]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2026.04.19-20.43.03:791][620]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.19-20.43.03:791][620]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.19-20.43.03:791][620]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.19-20.43.03:791][620]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.19-20.43.03:791][620]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.19-20.43.03:791][620]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.19-20.43.03:791][620]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.19-20.43.03:791][620]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.19-20.43.03:791][620]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.19-20.43.03:791][620]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.19-20.43.03:791][620]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.19-20.43.03:793][620]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.19-20.43.03:810][620]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.04.19-20.43.03:810][620]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.19-20.43.03:810][620]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.19-20.43.03:810][620]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.19-20.43.03:811][620]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2026.04.19-20.43.03:811][620]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2026.04.19-20.43.03:812][620]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2026.04.19-20.43.03:812][620]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2026.04.19-20.43.03:812][620]LogInit: FAudioDevice initialized with ID 34.
+[2026.04.19-20.43.03:812][620]LogAudio: Display: Audio Device (ID: 34) registered with world 'Real-LevelTwo'.
+[2026.04.19-20.43.03:812][620]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2026.04.19-20.43.03:815][620]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.19-20.43.03:835][620]LogWorld: Bringing World /Game/levels/UEDPIE_0_Real-LevelTwo.Real-LevelTwo up for play (max tick rate 0) at 2026.04.19-21.43.03
+[2026.04.19-20.43.03:836][620]LogWorld: Bringing up level for play took: 0.020117
+[2026.04.19-20.43.03:838][620]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2026.04.19-20.43.03:843][620]LogScript: Warning: Script Msg: The widget 'WB_RobotHud_C_0' was already added to the screen.
+[2026.04.19-20.43.03:843][620]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/levels/UEDPIE_0_Real-LevelTwo.Real-LevelTwo:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.04.19-20.43.03:844][620]PIE: Server logged in
+[2026.04.19-20.43.03:845][620]PIE: Play in editor total start time 0.205 seconds.
+[2026.04.19-20.43.05:515][716]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 
+[2026.04.19-20.43.05:515][716]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] hit somethignelse
+[2026.04.19-20.43.53:744][610]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Damaged
+[2026.04.19-20.44.25:608][521]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37426.511719
+[2026.04.19-20.44.25:808][533]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.19-20.44.25:808][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37426.683594, Update Interval: 329.030426
+[2026.04.19-20.44.33:044][968]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Damaged
+[2026.04.19-20.44.40:077][390]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Damaged
+[2026.04.19-20.45.48:722][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-20.45.48:722][507]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Real-LevelTwo
+[2026.04.19-20.45.48:722][507]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.04.19-20.45.48:725][507]LogWorld: UWorld::CleanupWorld for Real-LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-20.45.48:729][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-20.45.48:729][507]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/levels/UEDPIE_0_Real-LevelTwo.Real-LevelTwo
+[2026.04.19-20.45.48:732][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.19-20.45.48:738][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-20.45.48:760][507]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.19-20.45.48:760][507]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2026.04.19-20.45.48:760][507]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=4
+[2026.04.19-20.45.48:762][507]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=2
+[2026.04.19-20.45.48:766][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.19-20.45.48:775][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.04.19-20.45.48:827][508]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2026.04.19-20.45.53:986][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.04.19-20.45.55:077][805]LogSlate: Window 'Save Content' being destroyed
+[2026.04.19-20.45.55:085][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-20.45.55:122][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/A/MR/ZYFH6VIVVP4EYKF1E7QNF3
+[2026.04.19-20.45.55:122][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/ZYFH6VIVVP4EYKF1E7QNF39030B47C4A5D2903C11DF18C0664789A.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/A/MR/ZYFH6VIVVP4EYKF1E7QNF3.uasset'
+[2026.04.19-20.45.55:126][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/8/05/E7EOADCVR80DJBTSMUE824
+[2026.04.19-20.45.55:126][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/E7EOADCVR80DJBTSMUE824099472E845D56AA499D154A551AAB67C.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/8/05/E7EOADCVR80DJBTSMUE824.uasset'
+[2026.04.19-20.45.55:129][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/8/FT/XBWF9S689MHZH14WQC65SB
+[2026.04.19-20.45.55:129][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/XBWF9S689MHZH14WQC65SBE19881044144FAED98DFCFB72D51B23B.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/8/FT/XBWF9S689MHZH14WQC65SB.uasset'
+[2026.04.19-20.45.55:131][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/8/YO/WINHA2X1OI5M4R63R4FZCR
+[2026.04.19-20.45.55:131][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/WINHA2X1OI5M4R63R4FZCR21E9A0B54984A6572944BABEEC7C9667.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/8/YO/WINHA2X1OI5M4R63R4FZCR.uasset'
+[2026.04.19-20.45.55:133][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/D/G7/TNIRQ7U63UPHI56ZIAMJXN
+[2026.04.19-20.45.55:133][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/TNIRQ7U63UPHI56ZIAMJXN37B6D72F4BC55EE38ED85992DAE0D40B.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/D/G7/TNIRQ7U63UPHI56ZIAMJXN.uasset'
+[2026.04.19-20.45.55:135][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/A/PE/PD384NR36QYCHFHGSLEK0Q
+[2026.04.19-20.45.55:135][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/PD384NR36QYCHFHGSLEK0Q3D3A1444479D16E45B0C38BFAD21102C.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/A/PE/PD384NR36QYCHFHGSLEK0Q.uasset'
+[2026.04.19-20.45.55:138][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/B/AA/0C2D4EZD5F9NIO0RT48170
+[2026.04.19-20.45.55:138][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/0C2D4EZD5F9NIO0RT4817020DC73A549414318742089A0C445C612.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/B/AA/0C2D4EZD5F9NIO0RT48170.uasset'
+[2026.04.19-20.45.55:140][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/C/PO/IK3HEY8H6KLY80G53D7CTJ
+[2026.04.19-20.45.55:140][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/IK3HEY8H6KLY80G53D7CTJ1318367F454E8800BEA133ADC2C37316.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/C/PO/IK3HEY8H6KLY80G53D7CTJ.uasset'
+[2026.04.19-20.45.55:143][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/D/VR/X5XC4BQIFLPU2ZFFMD273J
+[2026.04.19-20.45.55:143][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/X5XC4BQIFLPU2ZFFMD273JBA2C7EDB43D5F7FBF9076C98A34E93DB.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/D/VR/X5XC4BQIFLPU2ZFFMD273J.uasset'
+[2026.04.19-20.45.55:145][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/6/KW/U8ZDL0AD00NYXE9GIO9W7L
+[2026.04.19-20.45.55:145][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/U8ZDL0AD00NYXE9GIO9W7LD7D05C014C437CE6C5E987A0B96E5B7F.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/6/KW/U8ZDL0AD00NYXE9GIO9W7L.uasset'
+[2026.04.19-20.45.55:148][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/B/NN/Y4MBFFYX5YWQVMQ4EUO3XN
+[2026.04.19-20.45.55:148][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Y4MBFFYX5YWQVMQ4EUO3XNC69512A749BE8FB36B0915A997D0B9D6.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/B/NN/Y4MBFFYX5YWQVMQ4EUO3XN.uasset'
+[2026.04.19-20.45.55:151][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/8/4M/T9MXIK2G25BNDVXOR2XCZ5
+[2026.04.19-20.45.55:151][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/T9MXIK2G25BNDVXOR2XCZ5F8C20C7E4B6D4703D8AC4F9D837B1B6E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/8/4M/T9MXIK2G25BNDVXOR2XCZ5.uasset'
+[2026.04.19-20.45.55:153][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/B/C5/PA67W9HJ4YKT2QU73VMZGN
+[2026.04.19-20.45.55:153][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/PA67W9HJ4YKT2QU73VMZGN2A9DF1E24BDD1E3C5CD8DF8B7D2474F2.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/B/C5/PA67W9HJ4YKT2QU73VMZGN.uasset'
+[2026.04.19-20.45.55:155][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/9/D2/9MU1VXSRQCYIBGPVANBALQ
+[2026.04.19-20.45.55:156][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/9MU1VXSRQCYIBGPVANBALQ0371C037415E473210680586F008C9E3.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/9/D2/9MU1VXSRQCYIBGPVANBALQ.uasset'
+[2026.04.19-20.45.55:158][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/A/PE/A5GEN5UR5SW99B4CW91CGP
+[2026.04.19-20.45.55:158][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/A5GEN5UR5SW99B4CW91CGP1483C6FB4A8BA27DC402B2AFE6DB449F.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/A/PE/A5GEN5UR5SW99B4CW91CGP.uasset'
+[2026.04.19-20.45.55:161][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/E/VM/HIW4DLQQI97OEQSN94QTGP
+[2026.04.19-20.45.55:162][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/HIW4DLQQI97OEQSN94QTGPE176F76A414B4F60B5F72E9FA2B61E01.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/E/VM/HIW4DLQQI97OEQSN94QTGP.uasset'
+[2026.04.19-20.45.55:164][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/5/KP/Y7YTK96DF83Z7BUTK72RQL
+[2026.04.19-20.45.55:164][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/Y7YTK96DF83Z7BUTK72RQL2C0ACA084779463C73E851BAE7AA922B.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/5/KP/Y7YTK96DF83Z7BUTK72RQL.uasset'
+[2026.04.19-20.45.55:166][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/9/VC/ZO4KLJ9MDJ644W353ESSSX
+[2026.04.19-20.45.55:166][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/ZO4KLJ9MDJ644W353ESSSX0EE93AF743AA4320C81FAC92B891815F.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/9/VC/ZO4KLJ9MDJ644W353ESSSX.uasset'
+[2026.04.19-20.45.55:168][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/6/QB/LZ91IZFVRQRVW8EI0ZGZRY
+[2026.04.19-20.45.55:169][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/LZ91IZFVRQRVW8EI0ZGZRY0FEC6BD04BB68D99961A71839F420A38.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/6/QB/LZ91IZFVRQRVW8EI0ZGZRY.uasset'
+[2026.04.19-20.45.55:171][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/levels/Real-LevelTwo/8/H0/YGL8OZM44MNJMGNTAWX8GR
+[2026.04.19-20.45.55:171][805]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/YGL8OZM44MNJMGNTAWX8GR356511284748430374E0219F0567FD90.tmp' to '../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Content/__ExternalActors__/levels/Real-LevelTwo/8/H0/YGL8OZM44MNJMGNTAWX8GR.uasset'
+[2026.04.19-20.45.55:178][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.928 ms (total: 11.7 sec)
+[2026.04.19-20.45.55:245][805]LogContentValidation: Display: Starting to validate 20 assets
+[2026.04.19-20.45.55:245][805]LogContentValidation: Enabled validators:
+[2026.04.19-20.45.55:245][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-20.45.55:245][805]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-20.45.55:245][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-20.45.55:245][805]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-20.45.55:245][805]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-20.45.55:245][805]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-20.45.55:245][805]AssetCheck: /Game/levels/Real-LevelTwo Validating asset
+[2026.04.19-20.45.55:294][805]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/willi/OneDrive/Documents/UnrealGame/Gameprototyping-test/CurrentGame/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.19-20.45.56:405][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.04.19-20.45.56:873][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.19-20.45.57:413][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.19-20.45.57:836][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.04.19-20.45.58:459][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
